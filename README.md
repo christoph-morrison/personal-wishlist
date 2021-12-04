@@ -13,6 +13,7 @@ This is the personal wish list for Christoph Morrison.
 |Kulturen des Reparierens: Dinge - Wissen - Praktiken|Div.|978-3837638608|€39,99|[Antaios](https://antaios.de/detail/index/sArticle/136999)
 |Die vorschriftsmäßige Elektroinstallation (22. Auflage)|Hösl, Alfred; Ayx, Roland; Busch, Hans-Werner|978-3800747092|€39,99|[Antaios](https://antaios.de/search?addArticle=9783800747092)
 |Der Rhein|Balmes, Hans Jürgen|978-3800747092|€28,00|[Antaios](https://antaios.de/search?addArticle=9783103974300)
+|The Devops Handbook: How to Create World-class Agility, Reliability, & Security in Technology Organizations|Kim, Gene; etc.|978-1950508402|€49,35|[Amazon](https://smile.amazon.de/dp/1950508404)
 
 ## Tools / Lab stuff
 * [pi‑top [4] DIY Edition](https://www.pi-top.com/products/diy-edition), £87,95
