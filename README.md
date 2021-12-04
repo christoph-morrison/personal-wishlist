@@ -11,7 +11,8 @@ This is the personal wish list for Christoph Morrison.
 |Der große Fabelschatz|Div.|9783649639688|€16,00|[Antaios](https://antaios.de/detail/index/sArticle/136995)
 |Johannes Vermeer: Vom Innehalten|Staatliche Kunstsammlungen Dresden|978-3954986101|€48,00|[Antaios](https://antaios.de/detail/index/sArticle/136998)
 |Kulturen des Reparierens: Dinge - Wissen - Praktiken|Div.|978-3837638608|€39,99|[Antaios](https://antaios.de/detail/index/sArticle/136999)
-|Die vorschriftsmäßige Elektroinstallation (22. Auflage)|Hösl, Alfred; Ayx, Roland; Busch, Hans-Werner|978-3800747092|€46,00|[Antaios](https://antaios.de/search?addArticle=9783800747092)
+|Die vorschriftsmäßige Elektroinstallation (22. Auflage)|Hösl, Alfred; Ayx, Roland; Busch, Hans-Werner|978-3800747092|€39,99|[Antaios](https://antaios.de/search?addArticle=9783800747092)
+|Der Rhein|Balmes, Hans Jürgen|978-3800747092|€28,00|[Antaios](https://antaios.de/search?addArticle=9783103974300)
 
 ## Tools / Lab stuff
 * [pi‑top [4] DIY Edition](https://www.pi-top.com/products/diy-edition), £87,95
