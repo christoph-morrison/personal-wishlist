@@ -34,3 +34,5 @@ This is the personal wish list for Christoph Morrison.
 |Set Schuhpflege Lederetui|€ 89,00|[Manufactum](https://www.manufactum.de/set-schuhpflege-lederetui-a97718/)
 |6x Französisches Bistroglas (360ml)|je € 2,90|[Manufactum](https://www.manufactum.de/franzoesisches-bistroglas-a43847/)
 |2x Französisches Bistroglas (500ml)|je € 2,90|[Manufactum](https://www.manufactum.de/franzoesisches-bistroglas-a43848/)
+|Wärmflasche aus Naturgummi (groß)|€ 9,90|[Manufactum](https://www.manufactum.de/waermflasche-gummi-a84804/)
+
