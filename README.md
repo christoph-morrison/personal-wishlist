@@ -18,6 +18,7 @@ This is the personal wish list for Christoph Morrison.
 |Runen: Geschichte – Gebrauch – Bedeutung|Krause, Arnulf|978-3737410564|€ 6,00|[Antaios](https://antaios.de/search?addArticle=9783737410564)
 |Die Eiszeiten: Naturgeschichte und Menschheitsgeschichte (Beck'sche Reihe)|Müller-Beck, Hansjürgen|978-3406508639|€ 8,95|[Antaios](https://antaios.de/search?addArticle=9783406508639)
 |Die deutschen Geheimdienste (Beck'sche Reihe)|Krieger, Wolfgang|978-3406764325|€ 9,95|[Antaios](https://antaios.de/search?addArticle=9783406764325)
+|Geschichte des Britischen Empire (Beck'sche Reihe)|Stuchtey, Benedikt|978-3406766992|€ 9,95|[Antaios](https://antaios.de/search?addArticle=9783406766992)
 
 ## Misc
 |Article|Price|Purchase at|
