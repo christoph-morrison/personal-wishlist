@@ -31,6 +31,7 @@ This is the personal wish list for Christoph Morrison.
 |-----|------|----|-----|-----------|
 |Rotröcke|Cornwell, Bernard|978-3499291425|€ 10,99|[Antaios](https://antaios.de/search?addArticle=978-3499291425)
 |Herr aller Dinge (Audiobook)|Eschbach, Andreas|978-3785780343|€ 14,00|[Antaios](https://antaios.de/search?addArticle=978-3785780343)
+|Disteln für Hagen|Fernau, Joachim|978-3785780343|€ 9,99|[Antaios](https://antaios.de/search?addArticle=978-3776650273)
 
 
 ## Home and personal
