@@ -26,7 +26,7 @@ This is the personal wish list for Christoph Morrison.
 |Ostfriesische Kunst: Von der Romanik bis zur Neugotik|Kiesow, Gottfried|978-3796303432|€ 12,89|[Amazon](https://smile.amazon.de/dp/3796303439/)
 |Die Trias der romanischen Dome am Rhein: Speyer, Worms und Mainz|Kosch, Clemens|978-3795426934|€ 5,00|[Antaios](https://antaios.de/search?addArticle=9783795426934)
 |Basiswissen Archäologie|Renfrew, Colin|978-3534217601|~ € 250,00|[Booklooker](https://www.booklooker.de/B%C3%BCcher/Colin-Bahn-Renfrew+Basiswissen-Arch%C3%A4ologie-Theorien-Methoden-Praxis/id/A02vav0N01ZZ8)
-
+|Militärarchäologie des Zweiten Weltkrieges: Basiswissen und Episoden militärhistorischer Feldforschung|Fleischer, Wolfgang|978-3869330525|€ 28,80|[Amazon](https://smile.amazon.de/dp/386933052X/)
 ## Belles lettres
 |Title|Author|ISBN|Price|Purchase at|
 |-----|------|----|-----|-----------|
