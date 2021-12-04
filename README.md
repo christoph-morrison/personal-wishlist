@@ -31,3 +31,4 @@ This is the personal wish list for Christoph Morrison.
 |Reichtangle Pillow|$ 35,00|[Anna Fortune](https://www.anna-fortune.com/shop/countryballs/reichtangle/)
 |Klang² Gedächtnisspiel Holz (Birnenholz)|€ 89,00|[Manufactum](https://www.manufactum.de/klang-gedaechtnisspiel-holz-a204371/)
 |Karten-Set 100 Fragen-Original|€ 25,00|[Manufactum](https://www.manufactum.de/karten-set-100-fragen-original-a10933/)
+|Set Schuhpflege Lederetui|€ 89,00|[Manufactum](https://www.manufactum.de/set-schuhpflege-lederetui-a97718/)
