@@ -1,7 +1,6 @@
 # Personal wish list
 This is the personal wish list for Christoph Morrison.
 
-
 ## Books
 |Title|Author|ISBN|Price|Purchase at|
 |-----|------|----|-----|-----------|
