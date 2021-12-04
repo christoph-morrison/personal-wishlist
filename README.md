@@ -1,7 +1,7 @@
 # Personal wish list
 This is the personal wish list for Christoph Morrison.
 
-## Books
+## Non fiction books
 |Title|Author|ISBN|Price|Purchase at|
 |-----|------|----|-----|-----------|
 |Mehr Rationalität: Eine Anleitung zum besseren Gebrauch des Verstandes|Pinker, Steven|978-3103971156|€25,00|[Antaios](https://antaios.de/detail/index/sArticle/136991)
