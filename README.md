@@ -20,5 +20,6 @@ This is the personal wish list for Christoph Morrison.
 * [ANAVI Fume Extractor (Developer Kit)](https://www.crowdsupply.com/anavi-technology/fume-extractor), $69,00
 * [CaribouLite RPi HAT](https://www.crowdsupply.com/cariboulabs/cariboulite-rpi-hat), $119,00
 * [Benning 10911 Tasche Schutztasche für Spannungsprüfer Duspol in schwarz](https://smile.amazon.de/dp/B00CBAY8KA/), ~ €22,00
+* [Wera Schraubendrehersatz 367/4 TORX® HF Kraftform Plus mit Haltefunktion, 4-teilig](https://smile.amazon.de/dp/B004XMDEDQ/), ~€40,00
 
 ## Misc
