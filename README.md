@@ -23,6 +23,7 @@ This is the personal wish list for Christoph Morrison.
 |Steinzeit in Schleswig-Holstein: Eine historische Landeskunde|Kelm, Rüdiger|978-3898769624|€ 17,95|[Antaios](https://antaios.de/search?addArticle=978-3898769624)
 |Burgen in Schleswig-Holstein: Zeugen des Mittelalters einst und jetzt|Auge, Oliver|978-3529050398|€ 17,95|[Amazon](https://smile.amazon.de/dp/3529050393/)
 |Mittelsteinzeit, ein Leben im Paradies?: Ein praktischer Versuch zur Archäologie der letzten Jäger, Fischer und Sammler im Norden Europas|Pfeifer, Werner|978-3898769730|€ 14,95|[Amazon](https://smile.amazon.de/dp/3898769739/)
+|Ostfriesische Kunst: Von der Romanik bis zur Neugotik|Kiesow, Gottfried|978-3796303432|€ 12,89|[Amazon](https://smile.amazon.de/dp/3796303439/)
 
 ## Belles lettres
 |Title|Author|ISBN|Price|Purchase at|
