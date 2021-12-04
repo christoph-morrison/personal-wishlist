@@ -41,3 +41,8 @@ This is the personal wish list for Christoph Morrison.
 |Tüff Rasierwasser Sensitive|€ 6,90|[Manufactum](https://www.manufactum.de/tueff-sensitiv-rasierwasser-a65372/)
 |Manufactum Shampoo Bier und Hopfen|€ 13,90 o. 34,90|[Manufactum](https://www.manufactum.de/manufactum-shampoo-a63393/)
 
+## Games
+|Article|Price|Purchase at|
+|---|---|---|
+|Trivial Pursuit 2010er Edition|€32,90|[Amazon](https://smile.amazon.de/dp/B097Y9SRJW/)
+
