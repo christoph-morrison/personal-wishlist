@@ -19,5 +19,6 @@ This is the personal wish list for Christoph Morrison.
 * [Raspberry Pi Pico Explorer Base](https://www.berrybase.de/neu/raspberry-pi-pico-explorer-base?c=2462), €25,50
 * [ANAVI Fume Extractor (Developer Kit)](https://www.crowdsupply.com/anavi-technology/fume-extractor), $69,00
 * [CaribouLite RPi HAT](https://www.crowdsupply.com/cariboulabs/cariboulite-rpi-hat), $119,00
+* [Benning 10911 Tasche Schutztasche für Spannungsprüfer Duspol in schwarz](https://smile.amazon.de/dp/B00CBAY8KA/), ~ €22,00
 
 ## Misc
