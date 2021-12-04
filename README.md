@@ -22,5 +22,6 @@ This is the personal wish list for Christoph Morrison.
 * [Benning 10911 Tasche Schutztasche für Spannungsprüfer Duspol in schwarz](https://smile.amazon.de/dp/B00CBAY8KA/), ~ €22,00
 * [Wera Schraubendrehersatz 367/4 TORX® HF Kraftform Plus mit Haltefunktion, 4-teilig](https://smile.amazon.de/dp/B004XMDEDQ/), ~€40,00
 * [Wera 05020110001 6004 Joker 4 Set 1 Selbstjustierender Maulschlüsselsatz, 4-teilig](https://www.amazon.de/dp/B08H23RZKV), ~€110,00
+* [Batavia Croc Lock Werkbank und Spannsystem](https://smile.amazon.de/dp/B004K80BT8), ~€160,00
 
 ## Misc
