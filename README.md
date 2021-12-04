@@ -9,6 +9,7 @@ This is the personal wish list for Christoph Morrison.
 |Der große Fabelschatz|Div.|978-3649639688|€16,00|[Antaios](https://antaios.de/detail/index/sArticle/136995)
 |Johannes Vermeer: Vom Innehalten|Staatliche Kunstsammlungen Dresden|978-3954986101|€48,00|[Antaios](https://antaios.de/detail/index/sArticle/136998)
 |Der Rhein|Balmes, Hans Jürgen|978-3800747092|€28,00|[Antaios](https://antaios.de/search?addArticle=9783103974300)
+|Naturkeller: Neubau und Umbau von Räumen zur Frischlagerung von Obst und Gemüse|Lorenz-Ladener, Claudia|978-3936896558|€ 19,90|[Antaios](https://antaios.de/search?addArticle=9783936896558)
 
 ## Misc
 |Article|Price|Purchase at|
