@@ -48,6 +48,7 @@ This is the personal wish list for Christoph Morrison.
 |Tüff Rasierwasser Sensitive|€ 6,90|[Manufactum](https://www.manufactum.de/tueff-sensitiv-rasierwasser-a65372/)
 |Manufactum Shampoo Bier und Hopfen|€ 13,90 o. 34,90|[Manufactum](https://www.manufactum.de/manufactum-shampoo-a63393/)
 |Heeley - Oranges and Lemons, say the Bells of St. Clement's Eau de Parfum (100ml)|€ 130,00|[Preisvergleich](https://www.google.com/shopping/product/10941112748735057845)
+|Penhaligon's Endymion Eau de Cologne (Spray, 100ml)|~ € 130,00|[Preisvergleich](https://www.google.com/shopping/product/16968605489500106629)
 
 ## Games
 |Article|Price|Purchase at|
