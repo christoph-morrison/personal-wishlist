@@ -29,3 +29,4 @@ This is the personal wish list for Christoph Morrison.
 |Dovo Rahmenetui|€ 337,00|[Manufactum](https://www.manufactum.de/dovo-rahmenetui-a44117/)|
 |Doubleface-Decke Schurwolle (Anthrazit/Hellgrau)|€ 229,00|[Manufactum](https://www.manufactum.de/doubleface-decke-schurwolle-a67447/)|
 |Reichtangle Pillow|$ 35,00|[Anna Fortune](https://www.anna-fortune.com/shop/countryballs/reichtangle/)
+|Klang² Gedächtnisspiel Holz (Birnenholz)|€ 89,00|[Manufactum](https://www.manufactum.de/klang-gedaechtnisspiel-holz-a204371/)
