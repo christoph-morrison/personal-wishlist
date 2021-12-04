@@ -24,7 +24,7 @@ This is the personal wish list for Christoph Morrison.
 |Burgen in Schleswig-Holstein: Zeugen des Mittelalters einst und jetzt|Auge, Oliver|978-3529050398|€ 17,95|[Amazon](https://smile.amazon.de/dp/3529050393/)
 |Mittelsteinzeit, ein Leben im Paradies?: Ein praktischer Versuch zur Archäologie der letzten Jäger, Fischer und Sammler im Norden Europas|Pfeifer, Werner|978-3898769730|€ 14,95|[Amazon](https://smile.amazon.de/dp/3898769739/)
 
-## Misc
+## Home and personal
 |Article|Price|Purchase at|
 |---|---|---|
 |Dovo Rahmenetui|€ 337,00|[Manufactum](https://www.manufactum.de/dovo-rahmenetui-a44117/)|
