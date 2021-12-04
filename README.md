@@ -13,6 +13,7 @@ This is the personal wish list for Christoph Morrison.
 |Kleine grüne Archen: Passivsolare Gewächshäuser selbst gebaut|Lorenz-Ladener, Claudia|978-3936896657|€ 22,90|[Antaios](https://antaios.de/search?addArticle=9783936896657)
 |Kompost-Toiletten für Garten und Freizeit: Sanitärtechnik ohne Wasser und Chemie|Berger, Wolfgang|978-3936896794|€ 17,95|[Antaios](https://antaios.de/search?addArticle=9783936896794)
 |Das Hühnerbuch: Handbuch zur Haltung glücklicher Hühner|Unterweger, Wolf-Dietmar|978-3702017903|€ 19,90|[Antaios](https://antaios.de/search?addArticle=9783702017903)
+|Militärtechnik des Ersten Weltkriegs: Entwicklung, Einsatz, Konsequenzen|Fleischer, Wolfgang|978-3613037069|€ 29,90|[Antaios](https://antaios.de/search?addArticle=9783613037069)
 
 ## Misc
 |Article|Price|Purchase at|
