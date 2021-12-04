@@ -14,3 +14,4 @@ This is the personal wish list for Christoph Morrison.
 |Article|Price|Purchase at|
 |---|---|---|
 |Dovo Rahmenetui|€ 337,00|[Manufactum](https://www.manufactum.de/dovo-rahmenetui-a44117/)|
+|Doubleface-Decke Schurwolle (Anthrazit/Hellgrau)|€ 229,00|[Manufactum](https://www.manufactum.de/doubleface-decke-schurwolle-a67447/)|
