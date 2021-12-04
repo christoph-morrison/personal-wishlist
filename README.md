@@ -11,3 +11,6 @@ This is the personal wish list for Christoph Morrison.
 |Der Rhein|Balmes, Hans Jürgen|978-3800747092|€28,00|[Antaios](https://antaios.de/search?addArticle=9783103974300)
 
 ## Misc
+|Article|Price|Purchase at|
+|---|---|---|
+|Dovo Rahmenetui|€ 337,00|[Manufactum](https://www.manufactum.de/dovo-rahmenetui-a44117/)|
