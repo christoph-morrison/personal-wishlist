@@ -28,6 +28,8 @@ This is the personal wish list for Christoph Morrison.
 |Die Trias der romanischen Dome am Rhein: Speyer, Worms und Mainz|Kosch, Clemens|978-3795426934|€ 5,00|[Antaios](https://antaios.de/search?addArticle=9783795426934)
 |Basiswissen Archäologie|Renfrew, Colin|978-3534217601|~ € 40,00|[Booklooker](https://www.booklooker.de/B%C3%BCcher/Colin-Bahn-Renfrew+Basiswissen-Arch%C3%A4ologie-Theorien-Methoden-Praxis/id/A02vav0N01ZZ8)
 |Militärarchäologie des Zweiten Weltkrieges: Basiswissen und Episoden militärhistorischer Feldforschung|Fleischer, Wolfgang|978-3869330525|€ 28,80|[Amazon](https://smile.amazon.de/dp/386933052X/)
+|Hochseefestung Helgoland, Bd. I|Fröhle, Claude; Kühn, Hans J.|9783980541510|€ 10,00|[Booklooker](https://www.booklooker.de/B%C3%BCcher/Claude-K%C3%BChn-Fr%C3%B6hle+Hochseefestung-Helgoland-Eine-milit%C3%A4rhistorische-Entdeckungsreise-1890-1920/id/A02yFpIR01ZZo)
+
 ## Belles lettres
 |Title|Author|ISBN|Price|Purchase at|
 |-----|------|----|-----|-----------|
