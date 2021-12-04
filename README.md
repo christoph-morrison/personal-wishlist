@@ -35,6 +35,7 @@ This is the personal wish list for Christoph Morrison.
 |Disteln für Hagen|Fernau, Joachim|978-3785780343|€ 9,99|[Antaios](https://antaios.de/search?addArticle=978-3776650273)
 |Zettels Traum|Schmidt, Arno|978-3100706263|~ € 250,00|[Amazon](https://www.amazon.de/Zettels-Traum-Arno-Schmidt/dp/3100706269)
 |Tristesse Droite - Die Abende von Schnellroda|Kositza, Ellen; Kubitschek, Götz|978-3944422213 |~ € 80,00|[Booklooker](https://www.booklooker.de/B%C3%BCcher/Ellen-Kubitschek-Kositza+Tristesse-Droite-Die-Abende-von-Schnellroda/id/A02yfLJf01ZZd)
+|In Stahlgewittern. Kommentierte Gesamtausgaben (2 Bde)|Jünger, Ernst|978-3944422213 |€ 84,00|[Antaios](https://antaios.de/buecherschraenke/persoenlichkeiten/ernst-juenger/1414/in-stahlgewittern.-kommentierte-gesamtausgaben-2-bde)
 
 ## Home and personal
 |Article|Price|Purchase at|
