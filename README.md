@@ -11,6 +11,7 @@ This is the personal wish list for Christoph Morrison.
 |Der Rhein|Balmes, Hans Jürgen|978-3800747092|€28,00|[Antaios](https://antaios.de/search?addArticle=9783103974300)
 |Naturkeller: Neubau und Umbau von Räumen zur Frischlagerung von Obst und Gemüse|Lorenz-Ladener, Claudia|978-3936896558|€ 19,90|[Antaios](https://antaios.de/search?addArticle=9783936896558)
 |Kleine grüne Archen: Passivsolare Gewächshäuser selbst gebaut|Lorenz-Ladener, Claudia|978-3936896657|€ 22,90|[Antaios](https://antaios.de/search?addArticle=9783936896657)
+|Kompost-Toiletten für Garten und Freizeit: Sanitärtechnik ohne Wasser und Chemie|Berger, Wolfgang|978-3936896794|€ 17,95|[Antaios](https://antaios.de/search?addArticle=9783936896794)
 
 ## Misc
 |Article|Price|Purchase at|
