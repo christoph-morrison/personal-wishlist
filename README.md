@@ -21,6 +21,7 @@ This is the personal wish list for Christoph Morrison.
 |Geschichte des Britischen Empire (Beck'sche Reihe)|Stuchtey, Benedikt|978-3406766992|€ 9,95|[Antaios](https://antaios.de/search?addArticle=9783406766992)
 |Steinzeit in Schleswig-Holstein: Eine historische Landeskunde|Kelm, Rüdiger|978-3898769624|€ 17,95|[Antaios](https://antaios.de/search?addArticle=978-3898769624)
 |Burgen in Schleswig-Holstein: Zeugen des Mittelalters einst und jetzt|Auge, Oliver|978-3529050398|€ 17,95|[Amazon](https://smile.amazon.de/dp/3529050393/)
+|Mittelsteinzeit, ein Leben im Paradies?: Ein praktischer Versuch zur Archäologie der letzten Jäger, Fischer und Sammler im Norden Europas|Pfeifer, Werner|978-3898769730|€ 14,95|[Antaios](https://smile.amazon.de/dp/3898769739/)
 
 ## Misc
 |Article|Price|Purchase at|
