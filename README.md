@@ -19,6 +19,7 @@ This is the personal wish list for Christoph Morrison.
 |Die Eiszeiten: Naturgeschichte und Menschheitsgeschichte (Beck'sche Reihe)|Müller-Beck, Hansjürgen|978-3406508639|€ 8,95|[Antaios](https://antaios.de/search?addArticle=9783406508639)
 |Die deutschen Geheimdienste (Beck'sche Reihe)|Krieger, Wolfgang|978-3406764325|€ 9,95|[Antaios](https://antaios.de/search?addArticle=9783406764325)
 |Geschichte des Britischen Empire (Beck'sche Reihe)|Stuchtey, Benedikt|978-3406766992|€ 9,95|[Antaios](https://antaios.de/search?addArticle=9783406766992)
+|Steinzeit in Schleswig-Holstein: Eine historische Landeskunde|Kelm, Rüdiger|978-3898769624|€ 17,95|[Antaios](https://antaios.de/search?addArticle=978-3898769624)
 
 ## Misc
 |Article|Price|Purchase at|
