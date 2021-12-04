@@ -38,4 +38,5 @@ This is the personal wish list for Christoph Morrison.
 |Bezug für Wärmflasche (Anthrazit/Hellgrau)|€ 37,90|[Manufactum](https://www.manufactum.de/waermflaschenbezug-schurwolle-a67448/)
 |Vogelquartett mit Vogelstimmen|€ 17,90|[Manufactum](https://www.manufactum.de/vogelquartett-vogelstimmen-a202195/)
 |Tüff Rasierwasser Sensitive|€ 6,90|[Manufactum](https://www.manufactum.de/tueff-sensitiv-rasierwasser-a65372/)
+|Manufactum Shampoo Bier und Hopfen|€ 13,90 o. 34,90|[Manufactum](https://www.manufactum.de/manufactum-shampoo-a63393/)
 
