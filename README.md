@@ -24,6 +24,11 @@ This is the personal wish list for Christoph Morrison.
 |Burgen in Schleswig-Holstein: Zeugen des Mittelalters einst und jetzt|Auge, Oliver|978-3529050398|€ 17,95|[Amazon](https://smile.amazon.de/dp/3529050393/)
 |Mittelsteinzeit, ein Leben im Paradies?: Ein praktischer Versuch zur Archäologie der letzten Jäger, Fischer und Sammler im Norden Europas|Pfeifer, Werner|978-3898769730|€ 14,95|[Amazon](https://smile.amazon.de/dp/3898769739/)
 
+## Belles lettres
+|Title|Author|ISBN|Price|Purchase at|
+|-----|------|----|-----|-----------|
+|Rotröcke|Cornwell, Bernard|978-3499291425|€ 10,99|[Antaios](https://antaios.de/search?addArticle=978-3499291425)
+
 ## Home and personal
 |Article|Price|Purchase at|
 |---|---|---|
