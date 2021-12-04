@@ -30,14 +30,11 @@ This is the personal wish list for Christoph Morrison.
 |Dovo Rahmenetui|€ 337,00|[Manufactum](https://www.manufactum.de/dovo-rahmenetui-a44117/)|
 |Doubleface-Decke Schurwolle (Anthrazit/Hellgrau)|€ 229,00|[Manufactum](https://www.manufactum.de/doubleface-decke-schurwolle-a67447/)|
 |Reichtangle Pillow|$ 35,00|[Anna Fortune](https://www.anna-fortune.com/shop/countryballs/reichtangle/)
-|Klang² Gedächtnisspiel Holz (Birnenholz)|€ 89,00|[Manufactum](https://www.manufactum.de/klang-gedaechtnisspiel-holz-a204371/)
-|Karten-Set 100 Fragen-Original|€ 25,00|[Manufactum](https://www.manufactum.de/karten-set-100-fragen-original-a10933/)
 |Set Schuhpflege Lederetui|€ 89,00|[Manufactum](https://www.manufactum.de/set-schuhpflege-lederetui-a97718/)
 |6x Französisches Bistroglas (360ml)|je € 2,90|[Manufactum](https://www.manufactum.de/franzoesisches-bistroglas-a43847/)
 |2x Französisches Bistroglas (500ml)|je € 2,90|[Manufactum](https://www.manufactum.de/franzoesisches-bistroglas-a43848/)
 |Wärmflasche aus Naturgummi (groß)|€ 9,90|[Manufactum](https://www.manufactum.de/waermflasche-gummi-a84804/)
 |Bezug für Wärmflasche (Anthrazit/Hellgrau)|€ 37,90|[Manufactum](https://www.manufactum.de/waermflaschenbezug-schurwolle-a67448/)
-|Vogelquartett mit Vogelstimmen|€ 17,90|[Manufactum](https://www.manufactum.de/vogelquartett-vogelstimmen-a202195/)
 |Tüff Rasierwasser Sensitive|€ 6,90|[Manufactum](https://www.manufactum.de/tueff-sensitiv-rasierwasser-a65372/)
 |Manufactum Shampoo Bier und Hopfen|€ 13,90 o. 34,90|[Manufactum](https://www.manufactum.de/manufactum-shampoo-a63393/)
 
@@ -45,4 +42,6 @@ This is the personal wish list for Christoph Morrison.
 |Article|Price|Purchase at|
 |---|---|---|
 |Trivial Pursuit 2010er Edition|€32,90|[Amazon](https://smile.amazon.de/dp/B097Y9SRJW/)
-
+|Klang² Gedächtnisspiel Holz (Birnenholz)|€ 89,00|[Manufactum](https://www.manufactum.de/klang-gedaechtnisspiel-holz-a204371/)
+|Karten-Set 100 Fragen-Original|€ 25,00|[Manufactum](https://www.manufactum.de/karten-set-100-fragen-original-a10933/)
+|Vogelquartett mit Vogelstimmen|€ 17,90|[Manufactum](https://www.manufactum.de/vogelquartett-vogelstimmen-a202195/)
