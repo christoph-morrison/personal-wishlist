@@ -39,7 +39,7 @@ This is the personal wish list for Christoph Morrison.
 |Rotröcke|Cornwell, Bernard|978-3499291425|€ 10,99|[Antaios](https://antaios.de/search?addArticle=978-3499291425)
 |Herr aller Dinge (Audiobook)|Eschbach, Andreas|978-3785780343|€ 14,00|[Antaios](https://antaios.de/search?addArticle=978-3785780343)
 |One Second After - Die Welt ohne Strom|Forstchen, William R.|978-3865527196|€ 14,99|[Antaios](https://antaios.de/search?addArticle=978-3865527196)
-|Rattentanz|Tietz, Michael|978-3548282510|~ € 11,00|[Amazon](https://www.amazon.de/dp/3548282512/) &middot; [Amazon Kindle](https://www.amazon.de/dp/B006YVTB2C)
+|Rattentanz|Tietz, Michael|978-3548282510|~ € 11,00 / € 3,99|[Amazon](https://www.amazon.de/dp/3548282512/) &middot; [Amazon Kindle](https://www.amazon.de/dp/B006YVTB2C)
 |Am Anfang war die Dunkelheit|Täufling, Björn|978-3548282510|€ 12,99/€ 5,99|[Amazon](https://www.amazon.de/dp/3745059603/) &middot; [Amazon Kindle](https://www.amazon.de/dp/B077YC6D1M)
 |Unplugged|Menzel-Berger, Thomas|978-1091563230|€ 6,42/€ 2,99|[Amazon](https://www.amazon.de/dp/1091563233/) &middot; [Amazon Kindle](https://www.amazon.de/dp/B07QQNQ2CB)
 |Disteln für Hagen|Fernau, Joachim|978-3785780343|€ 9,99|[Antaios](https://antaios.de/search?addArticle=978-3776650273)
