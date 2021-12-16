@@ -32,6 +32,7 @@ This is the personal wish list for Christoph Morrison.
 |Hochseefestung Helgoland, Bd. I|Fröhle, Claude; Kühn, Hans J.|9783980541510|€ 10,00|[Booklooker](https://www.booklooker.de/B%C3%BCcher/Claude-K%C3%BChn-Fr%C3%B6hle+Hochseefestung-Helgoland-Eine-milit%C3%A4rhistorische-Entdeckungsreise-1890-1920/id/A02yFpIR01ZZo)
 |Hochseefestung Helgoland, Bd. II|Fröhle, Claude; Kühn, Hans J.|9783980541534|€ 16,00|[Booklooker](https://www.booklooker.de/B%C3%BCcher/Claude-K%C3%BChn-Fr%C3%B6hle+Hochseefestung-Helgoland-Eine-milit%C3%A4rhistorische-Entdeckungsreise-1934-1947/id/A01KgqOE01ZZ4)
 |Leiser, tiefer, schneller - Innovationen im Deutschen U-Boot-Bau|Rohweder, Jürgen; Neumann, Peter|9783813209129|€ 80,00|[Booklooker](https://www.booklooker.de/B%C3%BCcher/J%C3%BCrgen-Neumann-Rohweder+Leiser-tiefer-schneller-Innovationen-im-Deutschen-U-Boot-Bau/id/A02yB6zw01ZZf)
+|Blackout - nichts geht mehr|Newiak, Denis|978-3741004063|€ 15,00|Vorbestellbar bei [Beck](https://www.beck-shop.de/newiak-blackout-nichts-geht-mehr/product/33386706)
 
 ## Belles lettres
 |Title|Author|ISBN|Price|Purchase at|
