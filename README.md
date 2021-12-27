@@ -33,17 +33,17 @@ This is the personal wish list for Christoph Morrison.
 |Es war doch nur Regen!?|Neumann, Andy|978-3839229460|   € 14,00 |[Antaios](https://antaios.de/search?addArticle=978-3839229460)|
 
 ## Belles lettres
-|Title|Author|ISBN|Price|Purchase at|
-|-----|------|----|-----|-----------|
-|Rotröcke|Cornwell, Bernard|978-3499291425|€ 10,99|[Antaios](https://antaios.de/search?addArticle=978-3499291425)|
-|Herr aller Dinge (Audiobook)|Eschbach, Andreas|978-3785780343|€ 14,00|[Antaios](https://antaios.de/search?addArticle=978-3785780343)|
-|One Second After - Die Welt ohne Strom|Forstchen, William R.|978-3865527196|€ 14,99|[Antaios](https://antaios.de/search?addArticle=978-3865527196)|
-|Rattentanz|Tietz, Michael|978-3548282510|~ € 11,00 / € 3,99|[Amazon](https://www.amazon.de/dp/3548282512/) &middot; [Amazon Kindle](https://www.amazon.de/dp/B006YVTB2C)|
-|Am Anfang war die Dunkelheit|Täufling, Björn|978-3548282510|€ 12,99/€ 5,99|[Amazon](https://www.amazon.de/dp/3745059603/) &middot; [Amazon Kindle](https://www.amazon.de/dp/B077YC6D1M)|
-|Unplugged|Menzel-Berger, Thomas|978-1091563230|€ 6,42/€ 2,99|[Amazon](https://www.amazon.de/dp/1091563233/) &middot; [Amazon Kindle](https://www.amazon.de/dp/B07QQNQ2CB)|
-|Disteln für Hagen|Fernau, Joachim|978-3785780343|€ 9,99|[Antaios](https://antaios.de/search?addArticle=978-3776650273)|
-|Zettels Traum|Schmidt, Arno|978-3100706263|~ € 250,00|[Amazon](https://www.amazon.de/Zettels-Traum-Arno-Schmidt/dp/3100706269)|
-|Tristesse Droite - Die Abende von Schnellroda|Kositza, Ellen; Kubitschek, Götz|978-3944422213 |~ € 80,00|[Booklooker](https://www.booklooker.de/B%C3%BCcher/Ellen-Kubitschek-Kositza+Tristesse-Droite-Die-Abende-von-Schnellroda/id/A02yfLJf01ZZd)|
+|Title|Author|ISBN|              Price |Purchase at|
+|-----|------|----|-------------------:|-----------|
+|Rotröcke|Cornwell, Bernard|978-3499291425|            € 10,99 |[Antaios](https://antaios.de/search?addArticle=978-3499291425)|
+|Herr aller Dinge (Audiobook)|Eschbach, Andreas|978-3785780343|            € 14,00 |[Antaios](https://antaios.de/search?addArticle=978-3785780343)|
+|One Second After - Die Welt ohne Strom|Forstchen, William R.|978-3865527196|            € 14,99 |[Antaios](https://antaios.de/search?addArticle=978-3865527196)|
+|Rattentanz|Tietz, Michael|978-3548282510| ~ € 11,00 / € 3,99 |[Amazon](https://www.amazon.de/dp/3548282512/) &middot; [Amazon Kindle](https://www.amazon.de/dp/B006YVTB2C)|
+|Am Anfang war die Dunkelheit|Täufling, Björn|978-3548282510|     € 12,99/€ 5,99 |[Amazon](https://www.amazon.de/dp/3745059603/) &middot; [Amazon Kindle](https://www.amazon.de/dp/B077YC6D1M)|
+|Unplugged|Menzel-Berger, Thomas|978-1091563230|      € 6,42/€ 2,99 |[Amazon](https://www.amazon.de/dp/1091563233/) &middot; [Amazon Kindle](https://www.amazon.de/dp/B07QQNQ2CB)|
+|Disteln für Hagen|Fernau, Joachim|978-3785780343|             € 9,99 |[Antaios](https://antaios.de/search?addArticle=978-3776650273)|
+|Zettels Traum|Schmidt, Arno|978-3100706263|         ~ € 250,00 |[Amazon](https://www.amazon.de/Zettels-Traum-Arno-Schmidt/dp/3100706269)|
+|Tristesse Droite - Die Abende von Schnellroda|Kositza, Ellen; Kubitschek, Götz|978-3944422213 |          ~ € 80,00 |[Booklooker](https://www.booklooker.de/B%C3%BCcher/Ellen-Kubitschek-Kositza+Tristesse-Droite-Die-Abende-von-Schnellroda/id/A02yfLJf01ZZd)|
 
 ## Home and personal
 |Article|     Price |Purchase at|
