@@ -15,14 +15,11 @@ This is the personal wish list for Christoph Morrison.
 |Das Hühnerbuch: Handbuch zur Haltung glücklicher Hühner|Unterweger, Wolf-Dietmar|978-3702017903|€ 19,90|[Antaios](https://antaios.de/search?addArticle=9783702017903)
 |Militärtechnik des Ersten Weltkriegs: Entwicklung, Einsatz, Konsequenzen|Fleischer, Wolfgang|978-3613037069|€ 29,90|[Antaios](https://antaios.de/search?addArticle=9783613037069)
 |Die Götter und Mythen der Germanen|Krause, Arnulf|978-3737409865|€ 6,00|[Antaios](https://antaios.de/search?addArticle=9783737409865)
-|Runen: Geschichte – Gebrauch – Bedeutung|Krause, Arnulf|978-3737410564|€ 6,00|[Antaios](https://antaios.de/search?addArticle=9783737410564)
 |Die Eiszeiten: Naturgeschichte und Menschheitsgeschichte (Beck'sche Reihe)|Müller-Beck, Hansjürgen|978-3406508639|€ 8,95|[Antaios](https://antaios.de/search?addArticle=9783406508639)
 |Quadrivium|Lundy, Miranda|978-9089984296|€ 9,95|[Antaios](https://antaios.de/search?addArticle=978-9089984296)
-|Die deutschen Geheimdienste (Beck'sche Reihe)|Krieger, Wolfgang|978-3406764325|€ 9,95|[Antaios](https://antaios.de/search?addArticle=9783406764325)
 |Geschichte des Britischen Empire (Beck'sche Reihe)|Stuchtey, Benedikt|978-3406766992|€ 9,95|[Antaios](https://antaios.de/search?addArticle=9783406766992)
 |Steinzeit in Schleswig-Holstein: Eine historische Landeskunde|Kelm, Rüdiger|978-3898769624|€ 17,95|[Antaios](https://antaios.de/search?addArticle=978-3898769624)
 |Seemannschaft|Div.|978-3667116581|€ 17,95|[Antaios](https://antaios.de/search?addArticle=978-3667116581)
-|Der Mensch und seine Zeichen|Frutiger, Adrian|978-3865399076|€ 10,00|[Antaios](https://antaios.de/search?addArticle=978-3865399076)
 |Burgen in Schleswig-Holstein: Zeugen des Mittelalters einst und jetzt|Auge, Oliver|978-3529050398|€ 17,95|[Amazon](https://smile.amazon.de/dp/3529050393/)
 |Mittelsteinzeit, ein Leben im Paradies?: Ein praktischer Versuch zur Archäologie der letzten Jäger, Fischer und Sammler im Norden Europas|Pfeifer, Werner|978-3898769730|€ 14,95|[Amazon](https://smile.amazon.de/dp/3898769739/)
 |Ostfriesische Kunst: Von der Romanik bis zur Neugotik|Kiesow, Gottfried|978-3796303432|€ 12,89|[Amazon](https://smile.amazon.de/dp/3796303439/)
@@ -47,7 +44,6 @@ This is the personal wish list for Christoph Morrison.
 |Disteln für Hagen|Fernau, Joachim|978-3785780343|€ 9,99|[Antaios](https://antaios.de/search?addArticle=978-3776650273)
 |Zettels Traum|Schmidt, Arno|978-3100706263|~ € 250,00|[Amazon](https://www.amazon.de/Zettels-Traum-Arno-Schmidt/dp/3100706269)
 |Tristesse Droite - Die Abende von Schnellroda|Kositza, Ellen; Kubitschek, Götz|978-3944422213 |~ € 80,00|[Booklooker](https://www.booklooker.de/B%C3%BCcher/Ellen-Kubitschek-Kositza+Tristesse-Droite-Die-Abende-von-Schnellroda/id/A02yfLJf01ZZd)
-|In Stahlgewittern. Kommentierte Gesamtausgaben (2 Bde)|Jünger, Ernst|978-3944422213 |€ 84,00|[Antaios](https://antaios.de/buecherschraenke/persoenlichkeiten/ernst-juenger/1414/in-stahlgewittern.-kommentierte-gesamtausgaben-2-bde)
 
 ## Home and personal
 |Article|Price|Purchase at|
@@ -55,18 +51,10 @@ This is the personal wish list for Christoph Morrison.
 |Dovo Rahmenetui|€ 337,00|[Manufactum](https://www.manufactum.de/dovo-rahmenetui-a44117/)|
 |Doubleface-Decke Schurwolle (Anthrazit/Hellgrau)|€ 229,00|[Manufactum](https://www.manufactum.de/doubleface-decke-schurwolle-a67447/)|
 |Reichtangle Pillow|$ 35,00|[Anna Fortune](https://www.anna-fortune.com/shop/countryballs/reichtangle/)
-|Set Schuhpflege Lederetui|€ 89,00|[Manufactum](https://www.manufactum.de/set-schuhpflege-lederetui-a97718/)
-|6x Französisches Bistroglas (360ml)|je € 2,90|[Manufactum](https://www.manufactum.de/franzoesisches-bistroglas-a43847/)
 |2x Französisches Bistroglas (500ml)|je € 2,90|[Manufactum](https://www.manufactum.de/franzoesisches-bistroglas-a43848/)
-|Wärmflasche aus Naturgummi (groß)|€ 9,90|[Manufactum](https://www.manufactum.de/waermflasche-gummi-a84804/)
-|Bezug für Wärmflasche (Anthrazit/Hellgrau)|€ 37,90|[Manufactum](https://www.manufactum.de/waermflaschenbezug-schurwolle-a67448/)
-|Tüff Rasierwasser Sensitive|€ 6,90|[Manufactum](https://www.manufactum.de/tueff-sensitiv-rasierwasser-a65372/)
-|Manufactum Shampoo Bier und Hopfen|€ 13,90 o. 34,90|[Manufactum](https://www.manufactum.de/manufactum-shampoo-a63393/)
 
 ## Games
 |Article|Price|Purchase at|
 |---|---|---|
-|Trivial Pursuit 2010er Edition|€32,90|[Amazon](https://smile.amazon.de/dp/B097Y9SRJW/)
 |Klang² Gedächtnisspiel Holz (Birnenholz)|€ 89,00|[Manufactum](https://www.manufactum.de/klang-gedaechtnisspiel-holz-a204371/)
-|Karten-Set 100 Fragen-Original|€ 25,00|[Manufactum](https://www.manufactum.de/karten-set-100-fragen-original-a10933/)
 |Vogelquartett mit Vogelstimmen|€ 17,90|[Manufactum](https://www.manufactum.de/vogelquartett-vogelstimmen-a202195/)
