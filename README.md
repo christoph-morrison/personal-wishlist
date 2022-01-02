@@ -33,6 +33,7 @@ Bitte keine Süßigkeiten.
 |Leiser, tiefer, schneller - Innovationen im Deutschen U-Boot-Bau|Rohweder, Jürgen; Neumann, Peter|978-3813209129|   € 80,00 |[Booklooker](https://www.booklooker.de/B%C3%BCcher/J%C3%BCrgen-Neumann-Rohweder+Leiser-tiefer-schneller-Innovationen-im-Deutschen-U-Boot-Bau/id/A02yB6zw01ZZf)|
 |Blackout - nichts geht mehr|Newiak, Denis|978-3741004063|   € 15,00 |Vorbestellbar bei [Beck](https://www.beck-shop.de/newiak-blackout-nichts-geht-mehr/product/33386706)|
 |Es war doch nur Regen!?|Neumann, Andy|978-3839229460|   € 14,00 |[Antaios](https://antaios.de/search?addArticle=978-3839229460)|
+|Amateurfunk|Zisler, Harald|978-3836260787|€ 49,90 |[Antaios](https://antaios.de/search?addArticle=978-3836260787)|
 
 ## Belles lettres
 | Titel | Autor(en) | ISBN | Preis | Kaufvorschlag |
