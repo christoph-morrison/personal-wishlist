@@ -35,7 +35,7 @@ This is the personal wish list for Christoph Morrison.
 | Der Siedler von heute: Klare, leichtverständliche Belehrungen in Gartenbau, Bienenzucht u. Kleintierhaltung                               | Div.                               | keine          |      var. | [Booklooker](https://www.booklooker.de/B%C3%BCcher/Angebote/titel=Der+Siedler+von+heute+Klare+leichtverst%C3%A4ndliche+Belehrungen+in+Gartenbau+Bienenzucht)                       |
 | Why Soldiers Miss War: The Journey Home                                                                                                   | Peterson, Nolan                    | keine          |   € 12,73 | [Kindle](https://www.amazon.de/Why-Soldiers-Miss-War-Journey-ebook/dp/B07YCVFF4R) |                                                                                                 |
 | Kommunismus und Nationalsozialismus - Antipoden und Zwillingsbrüder | Fritze, Lothar                    | 978-3948075286 |   € 22,00 | [Antaios](https://antaios.de/search?addArticle=978-3948075286) |
-
+| Die Gelben, die Schwarzen, die Weissen | Böckelmann, Frank | 978-3944872858 | € 34,80 | [Antaios](https://antaios.de/search?addArticle=978-3944872858) | 
 
 ## Belles lettres
 | Title                                         |Author| ISBN           |                                                                                                                                    Price | Purchase at                                                                                                                            |
