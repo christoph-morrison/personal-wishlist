@@ -64,4 +64,3 @@ This is the personal wish list for Christoph Morrison.
 |Article|   Price |Purchase at|
 |---|--------:|---|
 |Klang² Gedächtnisspiel Holz (Birnenholz)| € 89,00 |[Manufactum](https://www.manufactum.de/klang-gedaechtnisspiel-holz-a204371/)|
-|Vogelquartett mit Vogelstimmen| € 17,90 |[Manufactum](https://www.manufactum.de/vogelquartett-vogelstimmen-a202195/)|
