@@ -56,12 +56,13 @@ This is the personal wish list for Christoph Morrison.
 
 
 ## Home and personal
-| Article                                          |     Price | Purchase at                                                                 |
-|--------------------------------------------------|----------:|-----------------------------------------------------------------------------|
-| Dovo Rahmenetui                                  |  € 337,00 | [Manufactum](https://www.manufactum.de/dovo-rahmenetui-a44117/)             |
-| Doubleface-Decke Schurwolle (Anthrazit/Hellgrau) |  € 229,00 | [Manufactum](https://www.manufactum.de/doubleface-decke-schurwolle-a67447/) |
-| Reichtangle Pillow                               |   $ 35,00 | [Anna Fortune](https://www.anna-fortune.com/shop/countryballs/reichtangle/) |
-| 2x Französisches Bistroglas (500ml)              | je € 2,90 | [Manufactum](https://www.manufactum.de/franzoesisches-bistroglas-a43848/)   |
+| Article                                          |     Price | Purchase at                                                                            |
+|--------------------------------------------------|----------:|----------------------------------------------------------------------------------------|
+| Dovo Rahmenetui                                  |  € 337,00 | [Manufactum](https://www.manufactum.de/dovo-rahmenetui-a44117/)                        |
+| Doubleface-Decke Schurwolle (Anthrazit/Hellgrau) |  € 229,00 | [Manufactum](https://www.manufactum.de/doubleface-decke-schurwolle-a67447/)            |
+| Reichtangle Pillow                               |   $ 35,00 | [Anna Fortune](https://www.anna-fortune.com/shop/countryballs/reichtangle/)            |
+| 2x Französisches Bistroglas (500ml)              | je € 2,90 | [Manufactum](https://www.manufactum.de/franzoesisches-bistroglas-a43848/)              |
+| Wolldecke "Karby" (Anthrazit / Hellgrau)         |   € 85,00 | [Urbanara](https://www.urbanara.de/products/decke-anthrazit-hellgrau-schurwolle-karby) |
 
 ## Games
 | Article                                  |   Price | Purchase at                                                                  |
