@@ -41,6 +41,7 @@ This is the personal wish list for Christoph Morrison.
 | Was ist deutsch?: Elemente unserer Identität                                                                                              | Dvorak-Stocker, Wolfgang              | 978-3990810767 |   € 24,90 | [Antaios](https://antaios.de/search?addArticle=978-3990810767)                                                                                                                     |
 | Das große Buch der Selbstversorgung                                                                                                       | Strawbridge, James; Strawbridge, Dick | 978-3831041008 |   € 24,90 | [Antaios](https://antaios.de/search?addArticle=978-3831041008)                                                                                                                     |
 | Selbstversorger                                                                                                                           | Kraft der Natur                       | 978-8684544262 |   € 13,90 | [Amazon](https://www.amazon.de/gp/product/3831041008/)                                                                                                                             |
+| How to Judge People by What They Look Like                                                                                                | Dutton, Edward                        | 978-1977067975 |   € 12,80 | [Amazon](https://www.amazon.de/gp/product/1977067972)                                                                                                                              |
 
 ## Belles lettres
 | Title                                         | Author                           | ISBN           |      Price | Purchase at                                                                                                                               |
@@ -55,7 +56,6 @@ This is the personal wish list for Christoph Morrison.
 | Zettels Traum                                 | Schmidt, Arno                    | 978-3100706263 | ~ € 250,00 | [Amazon](https://www.amazon.de/Zettels-Traum-Arno-Schmidt/dp/3100706269)                                                                  |
 | Tristesse Droite - Die Abende von Schnellroda | Kositza, Ellen; Kubitschek, Götz | 978-3944422213 |  ~ € 80,00 | [Booklooker](https://www.booklooker.de/B%C3%BCcher/Ellen-Kubitschek-Kositza+Tristesse-Droite-Die-Abende-von-Schnellroda/id/A02yfLJf01ZZd) |
 | Vernichten                                    | Houellebecq, Michel              | 978-3832181932 |    € 28,00 | [Antaios](https://antaios.de/search?addArticle=978-3832181932)                                                                            |
-
 
 ## Home and personal
 | Article                                          |     Price | Purchase at                                                                            |
