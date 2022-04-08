@@ -43,6 +43,7 @@ This is the personal wish list for Christoph Morrison.
 | Selbstversorger                                                                                                                           | Kraft der Natur                       | 978-8684544262 |   € 13,90 | [Amazon](https://www.amazon.de/gp/product/3831041008/)                                                                                                                             |
 | How to Judge People by What They Look Like                                                                                                | Dutton, Edward                        | 978-1977067975 |   € 12,80 | [Amazon](https://www.amazon.de/gp/product/1977067972)                                                                                                                              |
 | Widerstand: Warum zwischen linker und rechter Politik eine Schlacht der Gene wütet | Mende, Philipp Anton | 978-3752674088 | € 19,99 | [Amazon](https://www.amazon.de/dp/3752674083/) |
+| The Perfectionists: How Precision Engineers Created the Modern World | Winchester, Simon | 978-0062652560 | ~ € 18,00 | [Amazon](https://www.amazon.de/gp/product/0062652567) |
 
 ## Belles lettres
 | Title                                         | Author                           | ISBN           |      Price | Purchase at                                                                                                                               |
