@@ -72,3 +72,7 @@ This is the personal wish list for Christoph Morrison.
 | Article                                  |   Price | Purchase at                                                                  |
 |------------------------------------------|--------:|------------------------------------------------------------------------------|
 | Klang² Gedächtnisspiel Holz (Birnenholz) | € 89,00 | [Manufactum](https://www.manufactum.de/klang-gedaechtnisspiel-holz-a204371/) |
+| HeroQuest 2022 DE | € 118,99 | [Fantasywelt](https://www.fantasywelt.de/HeroQuest-2022-DE) |
+| HeroQuest 2022 - Die Bastion Kellars Keep Abenteuerpack (DE) | € 31,99 | [Fantasywelt](https://www.fantasywelt.de/HeroQuest-2022-Die-Bastion-Kellars-Keep-Abenteuerpack-DE) | 
+| HeroQuest 2022 - Die Rückkehr des Hexen-Lords Abenteuerpack (DE) | € 31,99 | [Fantasywelt](https://www.fantasywelt.de/HeroQuest-2022-Die-Rueckkehr-des-Hexen-Lords-Abenteuerpack-DE) |
+| Black Organizer Hero Quest | € 39,99 | [Fantasywelt](https://www.fantasywelt.de/Black-Organizer-Hero-Quest) |
