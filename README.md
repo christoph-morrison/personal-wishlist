@@ -45,6 +45,7 @@ This is the personal wish list for Christoph Morrison.
 | Widerstand: Warum zwischen linker und rechter Politik eine Schlacht der Gene wütet | Mende, Philipp Anton | 978-3752674088 | € 19,99 | [Amazon](https://www.amazon.de/dp/3752674083/) |
 | The Perfectionists: How Precision Engineers Created the Modern World | Winchester, Simon | 978-0062652560 | ~ € 18,00 | [Amazon](https://www.amazon.de/gp/product/0062652567) |
 | Pracht und Idylle: Eine Bilderreise durch Schlösser und Gärten in Deutschland | 978-3795435387 | € 29,95 | [Antaios](https://antaios.de/search?addArticle=978-3795435387) |
+| Baustilkunde: Das Standardwerk zur europäischen Baukunst von der Antike bis zur Gegenwart (35. Ausgabe) | 978-3791349978 | € 36,00 | [Antaios](https://antaios.de/search?addArticle=978-3791349978) |
 
 
 ## Belles lettres
