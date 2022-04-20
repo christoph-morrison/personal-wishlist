@@ -47,6 +47,8 @@ This is the personal wish list for Christoph Morrison.
 | Pracht und Idylle: Eine Bilderreise durch Schlösser und Gärten in Deutschland | Verein Schlösser & Garten in Deutschland | 978-3795435387 | € 29,95 | [Antaios](https://antaios.de/search?addArticle=978-3795435387) |
 | Baustilkunde: Das Standardwerk zur europäischen Baukunst von der Antike bis zur Gegenwart (35. Ausgabe) | Koch, Wilfried | 978-3791349978 | € 36,00 | [Antaios](https://antaios.de/search?addArticle=978-3791349978) |
 | Die Zisterzienser und das Wasser | Knapp, Ulrich | 978-3731903505 | € 29,95 | [Imhof Verlag](https://www.imhofverlag.de/buecher/corporate/) |
+| Nietzsche – der Zeitgemäße | Rochedy, Julien | 978-3948145163 | € 18,00 | [Jvngeuropa Verlag](https://www.jungeuropa.de/jungeuropa/259/nietzsche-der-zeitgemaesse) |
+
 
 ## Belles lettres
 | Title                                         | Author                           | ISBN           |      Price | Purchase at                                                                                                                               |
