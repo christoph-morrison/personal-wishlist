@@ -1,9 +1,9 @@
-# Personal wish list
-This is the personal wish list for Christoph Morrison.
+# Wunschliste
+Dies ist die Wunschliste von Christoph Morrison.
 
-## Non-fiction books
-| Title                                                                                                                                     | Author                                | ISBN           |     Price | Purchase at                                                                                                                                                                        |
-|-------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|----------------|--:|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+## Sachbücher
+| Titel                                                                                                                                     | Autor(en)                             | ISBN           |  Preis | Kaufvorschlag |
+|:------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------|:---------------|-------:|:-----------------------------------------------------------------------------------------------------------------------------------------------|
 | Mehr Rationalität: Eine Anleitung zum besseren Gebrauch des Verstandes                                                                    | Pinker, Steven                        | 978-3103971156 |    €25,00 | [Antaios](https://antaios.de/detail/index/sArticle/136991)                                                                                                                         |
 | Vermeer                                                                                                                                   | Schütz, Karl                          | 978-3836565073 |    €16,00 | [Antaios](https://antaios.de/detail/index/sArticle/136993)                                                                                                                         |
 | Der große Fabelschatz                                                                                                                     | Div.                                  | 978-3649639688 |    €16,00 | [Antaios](https://antaios.de/detail/index/sArticle/136995)                                                                                                                         |
@@ -51,8 +51,8 @@ This is the personal wish list for Christoph Morrison.
 
 
 ## Belles lettres
-| Title                                         | Author                           | ISBN           |      Price | Purchase at                                                                                                                               |
-|-----------------------------------------------|----------------------------------|----------------|-----------:|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Titel                                         | Autor(en)                        | ISBN           |    Preis   | Kaufvorschlag                                                                                                                               |
+|:----------------------------------------------|:---------------------------------|:---------------|-----------:|:------------------------------------------------------------------------------------------------------------------------------------------|
 | Rotröcke                                      | Cornwell, Bernard                | 978-3499291425 |    € 10,99 | [Antaios](https://antaios.de/search?addArticle=978-3499291425)                                                                            |
 | Herr aller Dinge (Audiobook)                  | Eschbach, Andreas                | 978-3785780343 |    € 14,00 | [Antaios](https://antaios.de/search?addArticle=978-3785780343)                                                                            |
 | One Second After - Die Welt ohne Strom        | Forstchen, William R.            | 978-3865527196 |    € 14,99 | [Antaios](https://antaios.de/search?addArticle=978-3865527196)                                                                            |
@@ -64,13 +64,13 @@ This is the personal wish list for Christoph Morrison.
 | Tristesse Droite - Die Abende von Schnellroda | Kositza, Ellen; Kubitschek, Götz | 978-3944422213 |  ~ € 80,00 | [Booklooker](https://www.booklooker.de/B%C3%BCcher/Ellen-Kubitschek-Kositza+Tristesse-Droite-Die-Abende-von-Schnellroda/id/A02yfLJf01ZZd) |
 
 ## Filme & Serien
-| Article                                          |     Price | Purchase at                                                                            |
-|--------------------------------------------------|----------:|----------------------------------------------------------------------------------------|
+| Titel                                            |     Preis | Kaufvorschlag                                                                            |
+|:-------------------------------------------------|----------:|:-----------------------------------------------------------------------------------------|
 | Der Doktor und das liebe Vieh - Komplettbox      | € 32,99.  | [Amazon](https://www.amazon.de/dp/B00MWG7SAA/) |
 
-## Home and personal
-| Article                                          |     Price | Purchase at                                                                            |
-|--------------------------------------------------|----------:|----------------------------------------------------------------------------------------|
+## Haushaltswaren und Hygieneartikel
+| Artikel                                          |     Preis | Kaufvorschlag                                                                          |
+|:-------------------------------------------------|----------:|:---------------------------------------------------------------------------------------|
 | Dovo Rahmenetui                                  |  € 337,00 | [Manufactum](https://www.manufactum.de/dovo-rahmenetui-a44117/)                        |
 | Reichtangle Pillow                               |   $ 35,00 | [Anna Fortune](https://www.anna-fortune.com/shop/countryballs/reichtangle/)            |
 | 2x Französisches Bistroglas (500ml)              | je € 2,90 | [Manufactum](https://www.manufactum.de/franzoesisches-bistroglas-a43848/)              |
@@ -78,9 +78,9 @@ This is the personal wish list for Christoph Morrison.
 | Wolldecke S.A.C.                                 |  € 179,00 | [Manufactum](https://www.manufactum.de/wolldecke-sac-a80876/)                          |
 | Italienische Marinedecke                         |  € 179,00 | [Manufactum](https://www.manufactum.de/italienische-marinedecke-a78332/)               |
 
-## Games
-| Article                                  |   Price | Purchase at                                                                  |
-|------------------------------------------|--------:|------------------------------------------------------------------------------|
+## Spiele
+| Artikel                                  |   Preis | Kaufvorschlag |
+|:-----------------------------------------|--------:|:-----------------------------------------------------------------------------|
 | Klang² Gedächtnisspiel Holz (Birnenholz) | € 89,00 | [Manufactum](https://www.manufactum.de/klang-gedaechtnisspiel-holz-a204371/) |
 | HeroQuest 2022 DE | € 118,99 | [Fantasywelt](https://www.fantasywelt.de/HeroQuest-2022-DE) |
 | HeroQuest 2022 - Die Bastion Kellars Keep Abenteuerpack (DE) | € 31,99 | [Fantasywelt](https://www.fantasywelt.de/HeroQuest-2022-Die-Bastion-Kellars-Keep-Abenteuerpack-DE) | 
