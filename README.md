@@ -63,6 +63,11 @@ This is the personal wish list for Christoph Morrison.
 | Zettels Traum                                 | Schmidt, Arno                    | 978-3100706263 | ~ € 250,00 | [Amazon](https://www.amazon.de/Zettels-Traum-Arno-Schmidt/dp/3100706269)                                                                  |
 | Tristesse Droite - Die Abende von Schnellroda | Kositza, Ellen; Kubitschek, Götz | 978-3944422213 |  ~ € 80,00 | [Booklooker](https://www.booklooker.de/B%C3%BCcher/Ellen-Kubitschek-Kositza+Tristesse-Droite-Die-Abende-von-Schnellroda/id/A02yfLJf01ZZd) |
 
+## Filme & Serien
+| Article                                          |     Price | Purchase at                                                                            |
+|--------------------------------------------------|----------:|----------------------------------------------------------------------------------------|
+| Der Doktor und das liebe Vieh - Komplettbox      | € 32,99.  | [Amazon](https://www.amazon.de/dp/B00MWG7SAA/) |
+
 ## Home and personal
 | Article                                          |     Price | Purchase at                                                                            |
 |--------------------------------------------------|----------:|----------------------------------------------------------------------------------------|
