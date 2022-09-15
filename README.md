@@ -67,7 +67,7 @@ Dies ist die Wunschliste von Christoph Morrison.
 | Die vorschriftsmäßige Elektroinstallation: Wohnungsbau - Gewerbe - Industrie | Hösl, Alfred; et. al. | 978-3778529096 | € 49,00 | [Antaios](https://antaios.de/search?addArticle=978-3778529096) |
 | Meilensteine der Rechentechnik, Band 1+2 | Bruderer, Herbert | 978-3110702958 | € 199,00 | [Antaios](https://antaios.de/search?addArticle=978-3110702958) |
 | Learning the Art of Electronics | Hayes, Thomas C. | 	978-0521177238 | € 55,00 | [Elektor](https://www.elektor.com/learning-the-art-of-electronics) | 
-
+| NanoVNAs Explained | Richards, Mike G4WNC | 978-1913995195 | € 18,00 | [Funkamateur](https://www.box73.de/product_info.php?products_id=4611) | 
 
 
 ## Belles lettres
