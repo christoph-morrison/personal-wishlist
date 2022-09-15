@@ -66,6 +66,9 @@ Dies ist die Wunschliste von Christoph Morrison.
 | Akkus für jeden Zweck: Auswahl und Pflege für Smartphone, Spielzeug und Co   | Riegler, Thomas       | 978-3881804978 | € 29,90 | [Antaios](https://antaios.de/search?addArticle=978-3881804978) |
 | Die vorschriftsmäßige Elektroinstallation: Wohnungsbau - Gewerbe - Industrie | Hösl, Alfred; et. al. | 978-3778529096 | € 49,00 | [Antaios](https://antaios.de/search?addArticle=978-3778529096) |
 | Meilensteine der Rechentechnik, Band 1+2 | Bruderer, Herbert | 978-3110702958 | € 199,00 | [Antaios](https://antaios.de/search?addArticle=978-3110702958) |
+| Learning the Art of Electronics | Hayes, Thomas C. | 	978-0521177238 | € 55,00 | [Elektor](https://www.elektor.com/learning-the-art-of-electronics) | 
+
+
 
 ## Belles lettres
 | Titel                                         | Autor(en)                        | ISBN           |      Preis | Kaufvorschlag                                                                                                                             |
