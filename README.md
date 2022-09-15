@@ -91,6 +91,7 @@ Dies ist die Wunschliste von Christoph Morrison.
 | Wolldecke "Karby" (Anthrazit / Hellgrau)         |   € 85,00 | [Urbanara](https://www.urbanara.de/products/decke-anthrazit-hellgrau-schurwolle-karby) |
 | Wolldecke S.A.C.                                 |  € 179,00 | [Manufactum](https://www.manufactum.de/wolldecke-sac-a80876/)                          |
 | Italienische Marinedecke                         |  € 179,00 | [Manufactum](https://www.manufactum.de/italienische-marinedecke-a78332/)               |
+| PS Kabelorganisationsset                         |   € 34,00 | [Manufactum](https://www.manufactum.de/kabelorganisation-ps-a59063/)               |
 
 ## Spiele
 | Artikel                                                          |    Preis | Kaufvorschlag                                                                                           |
