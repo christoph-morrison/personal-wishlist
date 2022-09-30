@@ -68,8 +68,8 @@ Dies ist die Wunschliste von Christoph Morrison.
 | Meilensteine der Rechentechnik, Band 1+2 | Bruderer, Herbert | 978-3110702958 | € 199,00 | [Antaios](https://antaios.de/search?addArticle=978-3110702958) |
 | Learning the Art of Electronics | Hayes, Thomas C. | 	978-0521177238 | € 55,00 | [Elektor](https://www.elektor.com/learning-the-art-of-electronics) | 
 | NanoVNAs Explained | Richards, Mike G4WNC | 978-1913995195 | € 18,00 | [Funkamateur](https://www.box73.de/product_info.php?products_id=4611) | 
-| Warum Architektur keine Kunst ist | Loos, Adolf | 978-3902517791 | div. | [Booklooker](https://www.booklooker.de/B%C3%BCcher/Angebote/isbn=9783902517791)
-| William Blake: The Complete Illuminated Books | Bindman, David | 978-0500282458 | € 34,99 | [Amazon](https://www.amazon.de/-/en/David-Bindman/dp/0500282455)
+| Warum Architektur keine Kunst ist | Loos, Adolf | 978-3902517791 | div. | [Booklooker](https://www.booklooker.de/B%C3%BCcher/Angebote/isbn=9783902517791) |
+| William Blake: The Complete Illuminated Books | Bindman, David | 978-0500282458 | € 34,99 | [Amazon](https://www.amazon.de/-/en/David-Bindman/dp/0500282455) |
 
 ## Belles lettres
 | Titel                                         | Autor(en)                        | ISBN           |      Preis | Kaufvorschlag                                                                                                                             |
