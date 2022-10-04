@@ -71,6 +71,7 @@ Dies ist die Wunschliste von Christoph Morrison.
 | Warum Architektur keine Kunst ist | Loos, Adolf | 978-3902517791 | div. | [Booklooker](https://www.booklooker.de/B%C3%BCcher/Angebote/isbn=9783902517791) |
 | William Blake: The Complete Illuminated Books | Bindman, David | 978-0500282458 | € 34,99 | [Amazon](https://www.amazon.de/-/en/David-Bindman/dp/0500282455) |
 | RPi Pico Schaltungen und Projekte | Kainka, Burkhard | 979-8810376446 | € 14,95 | [Amazon](https://www.amazon.de/Pico-Schaltungen-Projekte-Burkhard-Kainka/dp/B09YHLH4DZ/) |
+| Arduino Messlabor | Kainka, Burkhard | 979-8409003494 | € 14,95 | [Amazon](https://www.amazon.de/Arduino-Messlabor-Burkhard-Kainka/dp/B09RFY9MJT/) |
 
 ## Belles lettres
 | Titel                                         | Autor(en)                        | ISBN           |      Preis | Kaufvorschlag                                                                                                                             |
