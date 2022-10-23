@@ -36,3 +36,10 @@
 | Hochbegabung - erkennen, verstehen, fördern                         | E       |
 | Unternehmen Barbarossa                                              | E       |
 | Russische Geschichte                                                | P       |
+| Das Ende der Antike: Geschichte des spätrömischen Reiches           | P       |
+| Die deutschen Geheimdienste: Vom Wiener Kongress bis zum Cyber War  | P       |
+| Psychologie: Grundlagen, Methoden, Therapien                        | P       |
+| Die Perserkriege                                                    | P       |
+| Athen: Geschichte und Archäologie                                   | P       |
+| Die Alpen: Geschichte einer Landschaft                              | P       |
+| Geschichte des Britischen Empire                                    | P       |
