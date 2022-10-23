@@ -1,6 +1,12 @@
 # Wunschliste
 Dies ist die Wunschliste von Christoph Morrison.
 
+## Beck Wissen
+
+Ich habe mir als Ziel gesetzt, möglichst viele der Bücher aus der [Reihe <q>Beck Wissen</q>](https://www.chbeck.de/buecher/reihen-sachbuch/chbeck-wissen/ueber-chbeck-wissen/) zu lesen. Dazu habe ich eine
+[Unterseite mit meinem Bestand](BeckWissen.md) angelegt. Ich bin an **jedem Buch** aus der Reihe interessiert, so lange es nicht bereits
+auf der Bestandsliste ist. **Ich bevorzuge elektronische Bücher**, vorzugsweise **ohne DRM/Kopierschutz**.
+
 ## Sachbücher
 | Titel                                                                                                                                     | Autor(en)                                | ISBN            |     Preis | Kaufvorschlag                                                                                                                                                                      |
 |:------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------|:----------------|----------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
