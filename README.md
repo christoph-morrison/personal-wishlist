@@ -72,6 +72,7 @@ Dies ist die Wunschliste von Christoph Morrison.
 | William Blake: The Complete Illuminated Books | Bindman, David | 978-0500282458 | € 34,99 | [Amazon](https://www.amazon.de/-/en/David-Bindman/dp/0500282455) |
 | RPi Pico Schaltungen und Projekte | Kainka, Burkhard | 979-8810376446 | € 14,95 | [Amazon](https://www.amazon.de/Pico-Schaltungen-Projekte-Burkhard-Kainka/dp/B09YHLH4DZ/) |
 | Arduino Messlabor | Kainka, Burkhard | 979-8409003494 | € 14,95 | [Amazon](https://www.amazon.de/Arduino-Messlabor-Burkhard-Kainka/dp/B09RFY9MJT/) |
+| Mut oder Wie man einen Kulturkampf inszeniert | Bousquet, François | 978-3949041136 | € 20,00 | [Antaios](https://antaios.de/search?addArticle=978-3949041136) |
 
 ## Belles lettres
 | Titel                                         | Autor(en)                        | ISBN           |      Preis | Kaufvorschlag                                                                                                                             |
