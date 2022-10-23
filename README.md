@@ -91,7 +91,7 @@ Dies ist die Wunschliste von Christoph Morrison.
 ## Filme & Serien
 | Titel                                            |     Preis | Kaufvorschlag                                                                            |
 |:-------------------------------------------------|----------:|:-----------------------------------------------------------------------------------------|
-| Der Doktor und das liebe Vieh - Komplettbox      | € 32,99   | [Amazon](https://www.amazon.de/dp/B00MWG7SAA/) |
+
 
 ## Haushaltswaren und Hygieneartikel
 | Artikel                                          |     Preis | Kaufvorschlag                                                                          |
