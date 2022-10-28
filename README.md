@@ -98,7 +98,7 @@ auf der Bestandsliste ist. **Ich bevorzuge elektronische Bücher**, vorzugsweise
 ## Filme & Serien
 | Titel                                            |     Preis | Kaufvorschlag                                                                            |
 |:-------------------------------------------------|----------:|:-----------------------------------------------------------------------------------------|
-
+| Lawrence von Arabien (2 Blu Ray Edition)         | € 9,99    | [Bücher.de](https://www.buecher.de/shop/abenteuer/lawrence-von-arabien-2-disc-bluray/blu-ray-disc/products_products/detail/prod_id/36499502/) |
 
 ## Haushaltswaren und Hygieneartikel
 | Artikel                                          |     Preis | Kaufvorschlag                                                                          |
