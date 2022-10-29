@@ -96,24 +96,24 @@ auf der Bestandsliste ist. **Ich bevorzuge elektronische Bücher**, vorzugsweise
 | Sea Changes                                   | Turner, Derek                    | 978-3981782813 |    € 24,00 | [Jvngeuropa Verlag](https://www.jungeuropa.de/autoren/derek-turner/178/sea-changes)                                                       |
 
 ## Filme & Serien
-| Titel                                            |     Preis | Kaufvorschlag                                                                            |
-|:-------------------------------------------------|----------:|:-----------------------------------------------------------------------------------------|
-| Lawrence von Arabien (2 Blu Ray Edition)         | € 9,99    | [Bücher.de](https://www.buecher.de/shop/abenteuer/lawrence-von-arabien-2-disc-bluray/blu-ray-disc/products_products/detail/prod_id/36499502/) |
-| El Cid (Blu Ray) | € 10,99   | [Amazon](https://www.amazon.de/El-Cid-LTD-Novobox-Klassiker/dp/B0863R6BD6/ref=tmm_blu_title_0?_encoding=UTF8&qid=1666962607&sr=8-3) |
-| Apocalypse Now / The Final Cut / Collector's Edition / (Kinofassung, Redux & Final Cut)(2 4K Ultra HD) (+ 2 Blu-ray 2D) | ~ € 30,00 | [Amazon](https://www.amazon.de/dp/B08KH3R8ZL) |
-| Karl May Gesamtbox | € 70,00| [Amazon](https://smile.amazon.de/dp/B00JVILO8E/) |
-| Die Abenteuer des Werner Holt | € 11,00 | [Amazon](https://smile.amazon.de/dp/B00ULFR41M) |
+| Titel                                                                                                                   |     Preis | Kaufvorschlag                                                                                                                                 |
+|:------------------------------------------------------------------------------------------------------------------------|----------:|:----------------------------------------------------------------------------------------------------------------------------------------------|
+| Lawrence von Arabien (2 Blu Ray Edition)                                                                                |    € 9,99 | [Bücher.de](https://www.buecher.de/shop/abenteuer/lawrence-von-arabien-2-disc-bluray/blu-ray-disc/products_products/detail/prod_id/36499502/) |
+| El Cid (Blu Ray)                                                                                                        |   € 10,99 | [Amazon](https://www.amazon.de/El-Cid-LTD-Novobox-Klassiker/dp/B0863R6BD6/ref=tmm_blu_title_0?_encoding=UTF8&qid=1666962607&sr=8-3)           |
+| Apocalypse Now / The Final Cut / Collector's Edition / (Kinofassung, Redux & Final Cut)(2 4K Ultra HD) (+ 2 Blu-ray 2D) | ~ € 30,00 | [Amazon](https://www.amazon.de/dp/B08KH3R8ZL)                                                                                                 |
+| Karl May Gesamtbox                                                                                                      |   € 70,00 | [Amazon](https://smile.amazon.de/dp/B00JVILO8E/)                                                                                              |
+| Die Abenteuer des Werner Holt                                                                                           |   € 11,00 | [Amazon](https://smile.amazon.de/dp/B00ULFR41M)                                                                                               |
 
 ## Haushaltswaren und Hygieneartikel
-| Artikel                                          |     Preis | Kaufvorschlag                                                                          |
-|:-------------------------------------------------|----------:|:---------------------------------------------------------------------------------------|
-| Dovo Rahmenetui                                  |  € 337,00 | [Manufactum](https://www.manufactum.de/dovo-rahmenetui-a44117/)                        |
-| Reichtangle Pillow                               |   $ 35,00 | [Anna Fortune](https://www.anna-fortune.com/shop/countryballs/reichtangle/)            |
-| 2x Französisches Bistroglas (500ml)              | je € 2,90 | [Manufactum](https://www.manufactum.de/franzoesisches-bistroglas-a43848/)              |
-| Wolldecke "Karby" (Anthrazit / Hellgrau)         |   € 85,00 | [Urbanara](https://www.urbanara.de/products/decke-anthrazit-hellgrau-schurwolle-karby) |
-| Wolldecke S.A.C.                                 |  € 179,00 | [Manufactum](https://www.manufactum.de/wolldecke-sac-a80876/)                          |
-| Italienische Marinedecke                         |  € 179,00 | [Manufactum](https://www.manufactum.de/italienische-marinedecke-a78332/)               |
-| PS Kabelorganisationsset                         |   € 34,00 | [Manufactum](https://www.manufactum.de/kabelorganisation-ps-a59063/)               |
+| Artikel                                  |     Preis | Kaufvorschlag                                                                          |
+|:-----------------------------------------|----------:|:---------------------------------------------------------------------------------------|
+| Dovo Rahmenetui                          |  € 337,00 | [Manufactum](https://www.manufactum.de/dovo-rahmenetui-a44117/)                        |
+| Reichtangle Pillow                       |   $ 35,00 | [Anna Fortune](https://www.anna-fortune.com/shop/countryballs/reichtangle/)            |
+| 2x Französisches Bistroglas (500ml)      | je € 2,90 | [Manufactum](https://www.manufactum.de/franzoesisches-bistroglas-a43848/)              |
+| Wolldecke "Karby" (Anthrazit / Hellgrau) |   € 85,00 | [Urbanara](https://www.urbanara.de/products/decke-anthrazit-hellgrau-schurwolle-karby) |
+| Wolldecke S.A.C.                         |  € 179,00 | [Manufactum](https://www.manufactum.de/wolldecke-sac-a80876/)                          |
+| Italienische Marinedecke                 |  € 179,00 | [Manufactum](https://www.manufactum.de/italienische-marinedecke-a78332/)               |
+| PS Kabelorganisationsset                 |   € 34,00 | [Manufactum](https://www.manufactum.de/kabelorganisation-ps-a59063/)                   |
 
 ## Spiele
 | Artikel                                                          |    Preis | Kaufvorschlag                                                                                           |
