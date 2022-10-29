@@ -103,6 +103,7 @@ auf der Bestandsliste ist. **Ich bevorzuge elektronische Bücher**, vorzugsweise
 | Apocalypse Now / The Final Cut / Collector's Edition / (Kinofassung, Redux & Final Cut)(2 4K Ultra HD) (+ 2 Blu-ray 2D) | ~ € 30,00 | [Amazon](https://www.amazon.de/dp/B08KH3R8ZL)                                                                                                 |
 | Karl May Gesamtbox                                                                                                      |   € 70,00 | [Amazon](https://smile.amazon.de/dp/B00JVILO8E/)                                                                                              |
 | Die Abenteuer des Werner Holt                                                                                           |   € 11,00 | [Amazon](https://smile.amazon.de/dp/B00ULFR41M)                                                                                               |
+| Nackt unter Wölfen                                                                                                      |   € 11,00 | [Amazon](https://smile.amazon.de/dp/B00UC2R4GO)                                                                                               |
 
 ## Haushaltswaren und Hygieneartikel
 | Artikel                                  |     Preis | Kaufvorschlag                                                                          |
