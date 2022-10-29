@@ -100,7 +100,8 @@ auf der Bestandsliste ist. **Ich bevorzuge elektronische Bücher**, vorzugsweise
 |:-------------------------------------------------|----------:|:-----------------------------------------------------------------------------------------|
 | Lawrence von Arabien (2 Blu Ray Edition)         | € 9,99    | [Bücher.de](https://www.buecher.de/shop/abenteuer/lawrence-von-arabien-2-disc-bluray/blu-ray-disc/products_products/detail/prod_id/36499502/) |
 | El Cid (Blu Ray) | € 10,99   | [Amazon](https://www.amazon.de/El-Cid-LTD-Novobox-Klassiker/dp/B0863R6BD6/ref=tmm_blu_title_0?_encoding=UTF8&qid=1666962607&sr=8-3) |
-| Apocalypse Now / The Final Cut / Collector's Edition / (Kinofassung, Redux & Final Cut)(2 4K Ultra HD) (+ 2 Blu-ray 2D) | ~ € 30,00 | [Amazon](https://www.amazon.de/Apocalypse-Final-Collectors-Kinofassung-Blu-ray/dp/B08KH3R8ZL/ref=sr_1_2?keywords=4006680093864&qid=1666996503&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sr=8-2) |
+| Apocalypse Now / The Final Cut / Collector's Edition / (Kinofassung, Redux & Final Cut)(2 4K Ultra HD) (+ 2 Blu-ray 2D) | ~ € 30,00 | [Amazon](https://www.amazon.de/dp/B08KH3R8ZL) |
+| Karl May Gesamtbox | € 70,00| [Amazon](https://smile.amazon.de/dp/B00JVILO8E/) |
 
 ## Haushaltswaren und Hygieneartikel
 | Artikel                                          |     Preis | Kaufvorschlag                                                                          |
