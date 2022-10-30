@@ -44,3 +44,9 @@
 | Die Alpen: Geschichte einer Landschaft                              |    P    |    x    |
 | Geschichte des Britischen Empire                                    |    P    |         |
 | Burgund                                                             |    P    |         | 
+| Römische Geschichte                                                 |    P    |         |
+| Griechische Geschichte                                              |    P    |         |
+| Geschichte Hamburgs                                                 |    P    |         |
+| Doping                                                              |    P    |         |
+| Geschichte der Raumfahrt                                            |    P    |         |
+| Das Weltall                                                         |    P    |         |
