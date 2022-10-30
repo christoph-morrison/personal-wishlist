@@ -8,7 +8,7 @@
 ## Bestandsliste
 
 | Titel                                                               | Bestand | Gelesen |
-|:--------------------------------------------------------------------|:--------|:--------|
+|:--------------------------------------------------------------------|:--------|:-------:|
 | Der deutsche Adel                                                   | E       |         |
 | Albert Einstein                                                     | E       |         |
 | Bismarck                                                            | E       |         |
@@ -41,6 +41,6 @@
 | Psychologie: Grundlagen, Methoden, Therapien                        | P       |         |
 | Die Perserkriege                                                    | P       |         |
 | Athen: Geschichte und Archäologie                                   | P       |         |
-| Die Alpen: Geschichte einer Landschaft                              | P       | x       |
+| Die Alpen: Geschichte einer Landschaft                              | P       |    x    |
 | Geschichte des Britischen Empire                                    | P       |         |
 | Burgund                                                             | P       |         | 
