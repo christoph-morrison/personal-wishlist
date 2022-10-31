@@ -91,3 +91,25 @@
 |89 |Saladin                                                            |
 |90 |Die Gladiatoren                                                    |
 |91 |Das islamische Recht                                               |
+|92 |Der heilige Gral                                                   |
+|93 |Der Wald                                                           |
+|94 |Wissenschaftstheorie                                               |
+|95 |Philosophie der Technik                                            |
+|96 |Die Orgel                                                          |
+|97 |Geschichte des öknonomischen Denkens                               |
+|98 |Die Reformpädagogik                                                |
+|99 |Staatsverschuldung                                                 |
+|100|Heinrich von Kleist                                                |
+|101|Geschichte Preussens                                               |
+|102|Geschichte Polens                                                  |
+|103|Geschichte der Pädagogik                                           |
+|104|Der Spracherwerb des Kindes                                        |
+|105|Zeitrechnung                                                       |
+|106|Das alte Testament                                                 |
+|107|Traum und Traumdeutung                                             |
+|108|Spanische Geschichte                                               |
+|109|Die Kelten                                                         |
+|110|Augustus und seine Zeit                                            |
+|111|Heinrich Schliemann                                                |
+|112|Die Geschichte der USA                                             |
+|113|Die Maya                                                           |
