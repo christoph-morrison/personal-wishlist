@@ -105,6 +105,7 @@ auf der Bestandsliste ist. **Ich bevorzuge elektronische Bücher**, vorzugsweise
 | Die Abenteuer des Werner Holt                                                                                           |   € 11,00 | [Amazon](https://smile.amazon.de/dp/B00ULFR41M)                                                                                               |
 | Nackt unter Wölfen                                                                                                      |   € 11,00 | [Amazon](https://smile.amazon.de/dp/B00UC2R4GO)                                                                                               |
 | Ich war neunzehn                                                                                                        |   € 11,00 | [Amazon](https://smile.amazon.de/dp/B010MAC4PQ)                                                                                               |
+| Die Medici - Herrscher von Florenz                                                                                      |   € 21,99 | (Amazon)[https://www.amazon.de/dp/B01N3ABYXD/]                                                                                                |
 
 ## Haushaltswaren und Hygieneartikel
 | Artikel                                  |     Preis | Kaufvorschlag                                                                          |
