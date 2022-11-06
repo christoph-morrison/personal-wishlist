@@ -105,7 +105,6 @@ auf der Bestandsliste ist. **Ich bevorzuge elektronische Bücher**, vorzugsweise
 | Nackt unter Wölfen                                                                                                      |   € 11,00 | [Amazon](https://smile.amazon.de/dp/B00UC2R4GO)                                                                                               |
 | Ich war neunzehn                                                                                                        |   € 11,00 | [Amazon](https://smile.amazon.de/dp/B010MAC4PQ)                                                                                               |
 | Die Medici - Herrscher von Florenz                                                                                      |   € 21,99 | [Amazon](https://www.amazon.de/dp/B01N3ABYXD/)                                                                                                |
-| Der schmale Grat (Blu Ray)                                                                                              |    € 8,49 | [Amazon](https://www.amazon.de/schmale-Grat-Blu-ray-Sean-Penn/dp/B00BU6MUYC/)                                                                 |
 
 ## Haushaltswaren und Hygieneartikel
 | Artikel                                  |     Preis | Kaufvorschlag                                                                          |
