@@ -103,7 +103,6 @@ auf der Bestandsliste ist. **Ich bevorzuge elektronische Bücher**, vorzugsweise
 | Karl May Gesamtbox                                                                                                      |   € 70,00 | [Amazon](https://smile.amazon.de/dp/B00JVILO8E/)                                                                                              |
 | Die Abenteuer des Werner Holt                                                                                           |   € 11,00 | [Amazon](https://smile.amazon.de/dp/B00ULFR41M)                                                                                               |
 | Nackt unter Wölfen                                                                                                      |   € 11,00 | [Amazon](https://smile.amazon.de/dp/B00UC2R4GO)                                                                                               |
-| Ich war neunzehn                                                                                                        |   € 11,00 | [Amazon](https://smile.amazon.de/dp/B010MAC4PQ)                                                                                               |
 
 ## Haushaltswaren und Hygieneartikel
 | Artikel                                  |     Preis | Kaufvorschlag                                                                          |
