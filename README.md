@@ -96,12 +96,13 @@ auf der Bestandsliste ist. **Ich bevorzuge elektronische Bücher**, vorzugsweise
 | Sea Changes                                   | Turner, Derek                    | 978-3981782813 |    € 24,00 | [Jvngeuropa Verlag](https://www.jungeuropa.de/autoren/derek-turner/178/sea-changes)                                                       |
 
 ## Filme & Serien
-| Titel                                                                                                                   |     Preis | Kaufvorschlag                                                                                                                                 |
-|:------------------------------------------------------------------------------------------------------------------------|----------:|:----------------------------------------------------------------------------------------------------------------------------------------------|
-| Apocalypse Now / The Final Cut / Collector's Edition / (Kinofassung, Redux & Final Cut)(2 4K Ultra HD) (+ 2 Blu-ray 2D) | ~ € 30,00 | [Amazon](https://www.amazon.de/dp/B08KH3R8ZL)                                                                                                 |
-| Karl May Gesamtbox                                                                                                      |   € 70,00 | [Amazon](https://smile.amazon.de/dp/B00JVILO8E/)                                                                                              |
-| Die Abenteuer des Werner Holt                                                                                           |   € 11,00 | [Amazon](https://smile.amazon.de/dp/B00ULFR41M)                                                                                               |
-| Nackt unter Wölfen                                                                                                      |   € 11,00 | [Amazon](https://smile.amazon.de/dp/B00UC2R4GO)                                                                                               |
+| Titel                                                                                                                   |     Preis | Kaufvorschlag                                                                     |
+|:------------------------------------------------------------------------------------------------------------------------|----------:|:----------------------------------------------------------------------------------|
+| Apocalypse Now / The Final Cut / Collector's Edition / (Kinofassung, Redux & Final Cut)(2 4K Ultra HD) (+ 2 Blu-ray 2D) | ~ € 30,00 | [Amazon](https://www.amazon.de/dp/B08KH3R8ZL)                                     |
+| Karl May Gesamtbox                                                                                                      |   € 70,00 | [Amazon](https://smile.amazon.de/dp/B00JVILO8E/)                                  |
+| Die Abenteuer des Werner Holt                                                                                           |   € 11,00 | [Amazon](https://smile.amazon.de/dp/B00ULFR41M)                                   |
+| Nackt unter Wölfen                                                                                                      |   € 11,00 | [Amazon](https://smile.amazon.de/dp/B00UC2R4GO)                                   |
+| African Queen - Special Edition (4K Ultra HD) (+ Blu-ray)                                                               |   € 24,99 | [Amazon](https://www.amazon.de/African-Queen-Special-Ultra-Blu-ray/dp/B0BG76Y655) |
 
 ## Haushaltswaren und Hygieneartikel
 | Artikel                                  |     Preis | Kaufvorschlag                                                                          |
