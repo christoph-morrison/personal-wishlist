@@ -1,5 +1,5 @@
 | Nr. | Titel                                                              |
-| --- | ------------------------------------------------------------------ |
+|-----|--------------------------------------------------------------------|
 | 29  | Die deutschen Geheimdienste: Vom Wiener Kongress bis zum Cyber War |
 | 30  | Psychologie: Grundlagen, Methoden, Therapien                       |
 | 32  | Athen: Geschichte und Archäologie                                  |
@@ -51,3 +51,4 @@
 | 148 | Die Perserkriege                                                   |
 | 202 | Die Geschichte des Buches                                          |
 | 203 | Sumerer und Akkader                                                |
+| 308 | Der Krieg in der Ukraine                                           |
