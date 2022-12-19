@@ -95,6 +95,7 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 | Titel                                                           | Preis     | Bezugsquelle                                                                                            |
 |:----------------------------------------------------------------|:----------|:--------------------------------------------------------------------------------------------------------|
 | Sensepeek 4007 PCBite Platinenhalter-Set mit großer Grundplatte | ~ € 82,00 | [Welectron](https://www.welectron.com/Sensepeek-4007-PCBite-Platinenhalter-Set-mit-grosser-Grundplatte) |
+| Elektrisches Staubgebläse, Air Duster                           | ~ € 70,00 | [Amazon](https://smile.amazon.de/dp/B09F65K3LV)                                                         |
 
 ## Filme & Serien
 | Titel                                                                                                                   |     Preis | Kaufvorschlag                                                                     |
