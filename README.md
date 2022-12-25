@@ -131,5 +131,4 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 ## Spiele
 | Artikel                                                          |    Preis | Kaufvorschlag                                                                                           |
 |:-----------------------------------------------------------------|---------:|:--------------------------------------------------------------------------------------------------------|
-| Klang² Gedächtnisspiel Holz (Birnenholz)                         |  € 89,00 | [Manufactum](https://www.manufactum.de/klang-gedaechtnisspiel-holz-a204371/)                            |
 | Black Organizer Hero Quest                                       |  € 39,99 | [Fantasywelt](https://www.fantasywelt.de/Black-Organizer-Hero-Quest)                                    |
