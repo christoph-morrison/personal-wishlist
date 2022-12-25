@@ -111,7 +111,6 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 | African Queen - Special Edition (4K Ultra HD) (+ Blu-ray)                                                               |   € 24,99 | [Amazon](https://www.amazon.de/African-Queen-Special-Ultra-Blu-ray/dp/B0BG76Y655) |
 | Zulu (Blu Ray)                                                                                                          | ~ € 10,00 | [Amazon](https://www.amazon.de/gp/product/B00PXJI1O0/)                            | 
 | Hamlet (Blu Ray)                                                                                                        | ~ € 10,00 | [Amazon](https://www.amazon.de/gp/product/B003N5VTTA/)                            | 
-| Henry V (Blu Ray)                                                                                                       | ~ € 10,00 | [Amazon](https://www.amazon.de/gp/product/B00MOZ1MYM/)                            | 
 | MacBeth (Blu Ray)                                                                                                       | ~ € 10,00 | [Amazon](https://www.amazon.de/gp/product/B019K0O56K/)                            | 
 
 ## Haushaltswaren und Hygieneartikel
