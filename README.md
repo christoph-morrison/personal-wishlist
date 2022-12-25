@@ -127,8 +127,3 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 | PS Kabelorganisationsset                 |    € 34,00 | [Manufactum](https://www.manufactum.de/kabelorganisation-ps-a59063/)                   |
 | Schal Harmstorf                          |  ~ € 60,00 | [Manufactum](https://www.manufactum.de/schal-harmstorf-a46300/)                        |
 | Hohenberger Kaschmirschal                | ~ € 130,00 | [Manufactum](https://www.manufactum.de/herren-kaschmirschal-a205688/)                  |
-
-## Spiele
-| Artikel                                                          |    Preis | Kaufvorschlag                                                                                           |
-|:-----------------------------------------------------------------|---------:|:--------------------------------------------------------------------------------------------------------|
-| Black Organizer Hero Quest                                       |  € 39,99 | [Fantasywelt](https://www.fantasywelt.de/Black-Organizer-Hero-Quest)                                    |
