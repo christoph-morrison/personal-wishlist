@@ -1,54 +1,100 @@
-| Nr. | Titel                                                              |
-|-----|--------------------------------------------------------------------|
-| 29  | Die deutschen Geheimdienste: Vom Wiener Kongress bis zum Cyber War |
-| 30  | Psychologie: Grundlagen, Methoden, Therapien                       |
-| 32  | Athen: Geschichte und Archäologie                                  |
-| 33  | Die Alpen: Geschichte einer Landschaft                             |
-| 34  | Geschichte des Britischen Empire                                   |
-| 37  | Griechische Geschichte                                             |
-| 39  | Doping                                                             |
-| 40  | Geschichte der Raumfahrt                                           |
-| 41  | Das Weltall                                                        |
-| 43  | Die Germanen                                                       |
-| 48  | Die Windsors                                                       |
-| 49  | Der Codex Manesse                                                  |
-| 53  | Englische Geschichte                                               |
-| 55  | Kolonialismus                                                      |
-| 59  | Die Hunnen                                                         |
-| 60  | Die Wikinger                                                       |
-| 61  | Karl V.                                                            |
-| 62  | Ritterburgen                                                       |
-| 63  | Die Johanniter                                                     |
-| 65  | Die Vandalen                                                       |
-| 67  | Götter und Kulte der Germanen                                      |
-| 68  | Die Samurai                                                        |
-| 70  | Die Assassinen                                                     |
-| 71  | Die Konquistadoren                                                 |
-| 75  | Gustav Stresemann                                                  |
-| 79  | Byzanz                                                             |
-| 80  | Die Angelsachsen                                                   |
-| 81  | Die Reconquista                                                    |
-| 83  | Geschichte des Osmanischen Reiches                                 |
-| 85  | Die Reichsgründung 1870/71                                         |
-| 86  | Die sieben Weisen                                                  |
-| 88  | Die Ritter                                                         |
-| 89  | Saladin                                                            |
-| 90  | Die Gladiatoren                                                    |
-| 92  | Der heilige Gral                                                   |
-| 93  | Der Wald                                                           |
-| 97  | Geschichte des öknonomischen Denkens                               |
-| 98  | Die Reformpädagogik                                                |
-| 100 | Heinrich von Kleist                                                |
-| 102 | Geschichte Polens                                                  |
-| 103 | Geschichte der Pädagogik                                           |
-| 104 | Der Spracherwerb des Kindes                                        |
-| 105 | Zeitrechnung                                                       |
-| 107 | Traum und Traumdeutung                                             |
-| 108 | Spanische Geschichte                                               |
-| 110 | Augustus und seine Zeit                                            |
-| 111 | Heinrich Schliemann                                                |
-| 112 | Die Geschichte der USA                                             |
-| 148 | Die Perserkriege                                                   |
-| 202 | Die Geschichte des Buches                                          |
-| 203 | Sumerer und Akkader                                                |
-| 308 | Der Krieg in der Ukraine                                           |
+| Bestands-Nr. | Titel                                                              |
+| ------------ | ------------------------------------------------------------------ |
+| 3            | Bismarck                                                           |
+| 9            | Der erste Welktrieg                                                |
+| 10           | Deutsche Kolonialgeschichte                                        |
+| 11           | Die Araber - Von der vorislamischen Zeit bis zur Gegenwart         |
+| 14           | Die Inquisition                                                    |
+| 17           | Die Medici: Florenz im Zeitalter der Renaissance                   |
+| 23           | Geschichte der Tuerkei                                             |
+| 27           | Russische Geschichte                                               |
+| 28           | Das Ende der Antike: Geschichte des spätrömischen Reiches          |
+| 29           | Die deutschen Geheimdienste: Vom Wiener Kongress bis zum Cyber War |
+| 30           | Psychologie: Grundlagen, Methoden, Therapien                       |
+| 31           | Die Perserkriege                                                   |
+| 32           | Athen: Geschichte und Archäologie                                  |
+| 33           | Die Alpen: Geschichte einer Landschaft                             |
+| 34           | Geschichte des Britischen Empire                                   |
+| 35           | Burgund                                                            |
+| 36           | Römische Geschichte                                                |
+| 37           | Griechische Geschichte                                             |
+| 38           | Geschichte Hamburgs                                                |
+| 39           | Doping                                                             |
+| 40           | Geschichte der Raumfahrt                                           |
+| 41           | Das Weltall                                                        |
+| 42           | Die Goten und ihre Geschichte                                      |
+| 43           | Die Germanen                                                       |
+| 44           | Die Kreuzzüge                                                      |
+| 45           | Deutsche Geschichte im Mittelalter                                 |
+| 46           | Der Nahostkonflikt                                                 |
+| 47           | Die Ketzer                                                         |
+| 48           | Die Windsors                                                       |
+| 49           | Der Codex Manesse                                                  |
+| 50           | Die Protokolle der Weisen von Zion                                 |
+| 51           | Geschichte Tschechiens                                             |
+| 52           | Der Bauernkrieg                                                    |
+| 53           | Englische Geschichte                                               |
+| 54           | Die Templer                                                        |
+| 55           | Kolonialismus                                                      |
+| 56           | Das Lehnswesen                                                     |
+| 57           | Friedrich der Große                                                |
+| 58           | Die Völkerschlacht von Leipzig                                     |
+| 59           | Die Hunnen                                                         |
+| 60           | Die Wikinger                                                       |
+| 61           | Karl V.                                                            |
+| 62           | Ritterburgen                                                       |
+| 63           | Die Johanniter                                                     |
+| 64           | 1066                                                               |
+| 65           | Die Vandalen                                                       |
+| 66           | Der deutsche Orden                                                 |
+| 67           | Götter und Kulte der Germanen                                      |
+| 68           | Die Samurai                                                        |
+| 69           | Der Islam                                                          |
+| 70           | Die Assassinen                                                     |
+| 71           | Die Konquistadoren                                                 |
+| 72           | Die Normannen                                                      |
+| 73           | Die Hanse                                                          |
+| 74           | Die Mongolen                                                       |
+| 75           | Gustav Stresemann                                                  |
+| 76           | Der Frieden von Versailles                                         |
+| 77           | Geschichte Istanbuls                                               |
+| 78           | Kaiser Friedrich II.                                               |
+| 79           | Byzanz                                                             |
+| 80           | Die Angelsachsen                                                   |
+| 81           | Die Reconquista                                                    |
+| 82           | Waterloo 1815                                                      |
+| 83           | Geschichte des Osmanischen Reiches                                 |
+| 84           | Der hundertjährige Krieg                                           |
+| 85           | Die Reichsgründung 1870/71                                         |
+| 86           | Die sieben Weisen                                                  |
+| 87           | Der zweite Weltkrieg                                               |
+| 88           | Die Ritter                                                         |
+| 89           | Saladin                                                            |
+| 90           | Die Gladiatoren                                                    |
+| 91           | Das islamische Recht                                               |
+| 92           | Der heilige Gral                                                   |
+| 93           | Der Wald                                                           |
+| 94           | Wissenschaftstheorie                                               |
+| 95           | Philosophie der Technik                                            |
+| 96           | Die Orgel • Instrument und Musik                                   |
+| 97           | Geschichte des öknonomischen Denkens                               |
+| 98           | Die Reformpädagogik                                                |
+| 99           | Staatsverschuldung                                                 |
+| 100          | Heinrich von Kleist                                                |
+| 101          | Geschichte Preussens                                               |
+| 102          | Geschichte Polens                                                  |
+| 103          | Geschichte der Pädagogik                                           |
+| 104          | Der Spracherwerb des Kindes                                        |
+| 105          | Zeitrechnung                                                       |
+| 106          | Das alte Testament                                                 |
+| 107          | Traum und Traumdeutung                                             |
+| 108          | Spanische Geschichte                                               |
+| 109          | Die Kelten                                                         |
+| 110          | Augustus und seine Zeit                                            |
+| 111          | Heinrich Schliemann                                                |
+| 112          | Die Geschichte der USA                                             |
+| 113          | Die Maya                                                           |
+| 148          | Die Perserkriege                                                   |
+| 202          | Die Geschichte des Buches                                          |
+| 203          | Sumerer und Akkader                                                |
+| 308          | Der Krieg in der Ukraine                                           |
