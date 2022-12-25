@@ -85,8 +85,6 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 | Leiser, tiefer, schneller - Innovationen im Deutschen U-Boot-Bau                                                                          | Rohweder, Jürgen; Neumann, Peter           | 978-3813209129 |  ~ € 35,00 | [Amazon](https://www.amazon.de/dp/3813209121/)                                                                                                                                     |                                                                                                                                    |
 | Dörfliche Gesellschaft und ländliche Siedlung                                                                                             | Halle, Uta; Huismann, Frank; Linde, Roland | 978-3895343261 |     €24,00 | [Lehmanns](https://www.lehmanns.de/shop/geisteswissenschaften/2780341-9783895343261-doerfliche-gesellschaft-und-laendliche-siedlung)                                               |
 
-
-
 ## Belles lettres
 | Titel                                         | Autor(en)                        | ISBN           |      Preis | Kaufvorschlag                                                                                                                             |
 |:----------------------------------------------|:---------------------------------|:---------------|-----------:|:------------------------------------------------------------------------------------------------------------------------------------------|
@@ -102,7 +100,6 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 |:----------------------------------------------------------------|:----------|:----------------------------------------------------------------------------------------------------------------------|
 | Sensepeek 4007 PCBite Platinenhalter-Set mit großer Grundplatte | ~ € 82,00 | [Welectron](https://www.welectron.com/Sensepeek-4007-PCBite-Platinenhalter-Set-mit-grosser-Grundplatte)               |
 | ELV Experimentierset Operationsverstärker inkl. Make Sonderheft | ~ € 50,00 | [ELV](https://de.elv.com/elv-experimentierset-operationsverstaerker-inkl-make-sonderheft-253005?fs=2091775902&c=1024) |
-
 
 ## Filme & Serien
 | Titel                                                                                                                   |     Preis | Kaufvorschlag                                                                     |
