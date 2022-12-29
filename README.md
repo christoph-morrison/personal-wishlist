@@ -120,7 +120,6 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 | Die Buddenbrooks                                                |  ~ € 8,00 | [Booklooker](https://www.booklooker.de/Filme/Buddenbrooks/id/A02mX1LK11ZZF/)      |
 | Kriegsgesetz - Gesetz ohne Gnade                                | ~ € 14,00 | [Amazon](https://www.amazon.de/dp/B00G9JOWNW/)                                    |
 
-
 ## Haushaltswaren und Hygieneartikel
 | Artikel                                  |      Preis | Kaufvorschlag                                                                          |
 |:-----------------------------------------|-----------:|:---------------------------------------------------------------------------------------|
