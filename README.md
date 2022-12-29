@@ -102,11 +102,23 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 | ELV Experimentierset Operationsverstärker inkl. Make Sonderheft | ~ € 50,00 | [ELV](https://de.elv.com/elv-experimentierset-operationsverstaerker-inkl-make-sonderheft-253005?fs=2091775902&c=1024) |
 
 ## Filme & Serien
-| Titel                                                                                                                   |     Preis | Kaufvorschlag                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------|----------:|:----------------------------------------------------------------------------------|
-| African Queen - Special Edition (4K Ultra HD) (+ Blu-ray)                                                               |   € 24,99 | [Amazon](https://www.amazon.de/African-Queen-Special-Ultra-Blu-ray/dp/B0BG76Y655) |
-| Zulu (Blu Ray)                                                                                                          | ~ € 10,00 | [Amazon](https://www.amazon.de/gp/product/B00PXJI1O0/)                            | 
-| MacBeth (Blu Ray)                                                                                                       | ~ € 10,00 | [Amazon](https://www.amazon.de/gp/product/B019K0O56K/)                            | 
+| Titel                                                           |     Preis | Kaufvorschlag                                                                     |
+|:----------------------------------------------------------------|----------:|:----------------------------------------------------------------------------------|
+| African Queen - Special Edition (4K Ultra HD) (+ Blu-ray)       |   € 24,99 | [Amazon](https://www.amazon.de/African-Queen-Special-Ultra-Blu-ray/dp/B0BG76Y655) |
+| Zulu (Blu Ray)                                                  | ~ € 10,00 | [Amazon](https://www.amazon.de/gp/product/B00PXJI1O0/)                            | 
+| MacBeth (Blu Ray)                                               | ~ € 10,00 | [Amazon](https://www.amazon.de/gp/product/B019K0O56K/)                            | 
+| Aus einem deutschen Leben (Neuauflage / HD Remastered) - BluRay | ~ € 15,00 | [Amazon](https://www.amazon.de/dp/B00KGRTYHW/)                                    |
+| Admiral Canaris - Ein Leben für Deutschland                     | ~ € 13,00 | [Amazon](https://www.amazon.de/dp/B07BZ5F6YC/)                                    |
+| 08/15 - Die komplette Filmtrilogie                              | ~ € 16,00 | [Amazon](https://www.amazon.de/dp/B01M2Z2PUC/)                                    |
+| Steiner - Das eiserne Kreuz Teil 1+2 (HD-Doppelbox) - BluRay    | ~ € 20,00 | [Amazon](https://www.amazon.de/dp/B01MZGXXJX/)                                    |
+| Das Spinnennetz - BluRay                                        | ~ € 13,00 | [Amazon](https://www.amazon.de/dp/B00IK6XLNE/)                                    |
+| Strafbataillon 999 - BluRay                                     | ~ € 18,00 | [Amazon](https://www.amazon.de/dp/B08SGDZFK6/)                                    |
+| Division Brandenburg - BluRay                                   | ~ € 20,00 | [Amazon](https://www.amazon.de/dp/B08SGLZ89S/)                                    |
+| Die Buddenbrooks - Die komplette Serie in 11 Teilen (DVD)       | ~ € 22,00 | [Amazon](https://www.amazon.de/dp/B01N2P7Y1V/)                                    |
+| Die Buddenbrooks - Der legendäre Zweiteiler von 1959 (DVD)      | ~ € 18,00 | [Amazon](https://www.amazon.de/dp/B01M9BA881/)                                    |
+| Ein Mädchen aus Flandern (Engele von Loewen) (DVD)              | ~ € 14,00 | [Amazon](https://www.amazon.de/dp/B00G9JOWP0/)                                    |
+| Die Buddenbrooks                                                |  ~ € 8,00 | [Booklooker](https://www.booklooker.de/Filme/Buddenbrooks/id/A02mX1LK11ZZF/)      |
+
 
 ## Haushaltswaren und Hygieneartikel
 | Artikel                                  |      Preis | Kaufvorschlag                                                                          |
