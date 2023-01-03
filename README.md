@@ -122,6 +122,7 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 | Und ewig singen die Wälder / Das Erbe von Björndal (2 DVD)      | ~ € 16,00 | [Amazon](https://www.amazon.de/dp/B07VFQMHLK)                                     |
 | Karl der Große - Der komplette Historien-Dreiteiler (2 DVD)     | ~ € 16,00 | [Amazon](https://www.amazon.de/dp/B00BQ9N54C)                                     |
 | Die Strauß-Dynastie: Teil 1-6 (4 DVD)                           | ~ € 20,00 | [Amazon](https://www.amazon.de/dp/B009XL5NY0)                                     |
+| Peter der Große - Der komplette Vierteiler (4 DVD)              | ~ € 20,00 | [Amazon](https://www.amazon.de/dp/B009KY0TT4)                                     |
 
 ## Haushaltswaren und Hygieneartikel
 | Artikel                                  |      Preis | Kaufvorschlag                                                                          |
