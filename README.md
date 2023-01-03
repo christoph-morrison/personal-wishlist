@@ -119,6 +119,7 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 | Ein Mädchen aus Flandern (Engele von Loewen) (DVD)              | ~ € 14,00 | [Amazon](https://www.amazon.de/dp/B00G9JOWP0/)                                    |
 | Die Buddenbrooks                                                |  ~ € 8,00 | [Booklooker](https://www.booklooker.de/Filme/Buddenbrooks/id/A02mX1LK11ZZF/)      |
 | Kriegsgesetz - Gesetz ohne Gnade                                | ~ € 14,00 | [Amazon](https://www.amazon.de/dp/B00G9JOWNW/)                                    |
+| Und ewig singen die Wälder / Das Erbe von Björndal (2 DVD) | ~ 16,00 | [Amazon](https://www.amazon.de/ewig-singen-W%C3%A4lder-Erbe-Bj%C3%B6rndal/dp/B07VFQMHLK) |
 
 ## Haushaltswaren und Hygieneartikel
 | Artikel                                  |      Preis | Kaufvorschlag                                                                          |
