@@ -126,6 +126,8 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 | Die Strauß-Dynastie: Teil 1-6 (4 DVD)                           | ~ € 20,00 | [Amazon](https://www.amazon.de/dp/B009XL5NY0)                                     |
 | Peter der Große - Der komplette Vierteiler (4 DVD)              | ~ € 20,00 | [Amazon](https://www.amazon.de/dp/B009KY0TT4)                                     |
 | Der Salzbaron - Der komplette Historien-Mehrteiler (4 DVD)      | ~ € 16,00 | [Amazon](https://www.amazon.de/dp/B00BQXX6HE)                                     |
+| Flußfahrt mit Huhn (BR)                                         |  ~ € 9,00 | [Amazon](https://www.amazon.de/dp/B00HVP4V5M)                                     |
+
 
 ## Haushaltswaren und Hygieneartikel
 | Artikel                                  |      Preis | Kaufvorschlag                                                                          |
