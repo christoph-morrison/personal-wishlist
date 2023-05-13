@@ -97,6 +97,12 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 | Tristesse Droite - Die Abende von Schnellroda | Kositza, Ellen; Kubitschek, Götz | 978-3944422213 |  ~ € 80,00 | [Booklooker](https://www.booklooker.de/B%C3%BCcher/Ellen-Kubitschek-Kositza+Tristesse-Droite-Die-Abende-von-Schnellroda/id/A02yfLJf01ZZd) |
 | Sea Changes                                   | Turner, Derek                    | 978-3981782813 |    € 24,00 | [Jvngeuropa Verlag](https://www.jungeuropa.de/autoren/derek-turner/178/sea-changes)                                                       |
 
+## Hörbücher und -spiele
+| Titel                            | Autor(en)        |  Preis  | Kaufvorschlag                                                        |
+|:---------------------------------|:-----------------|:-------:|:---------------------------------------------------------------------|
+| Die Höredition der Weltliteratur | div.             | € 78,99 | [Thalia](https://www.thalia.de/shop/home/artikeldetails/A1036033744) |
+| Krieg und Frieden (ungekürzt)    | Toilstoi, Leo N. | € 53,99 | [Thalia](https://www.thalia.de/shop/home/artikeldetails/A1030394648) |
+
 ## Werkzeug &amp; Geräte
 | Titel                                                           | Preis     | Bezugsquelle                                                                                                          |
 |:----------------------------------------------------------------|:----------|:----------------------------------------------------------------------------------------------------------------------|
