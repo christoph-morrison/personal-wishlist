@@ -102,6 +102,7 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 |:---------------------------------|:-----------------|:-------:|:---------------------------------------------------------------------|
 | Die Höredition der Weltliteratur | div.             | € 78,99 | [Thalia](https://www.thalia.de/shop/home/artikeldetails/A1036033744) |
 | Krieg und Frieden (ungekürzt)    | Toilstoi, Leo N. | € 53,99 | [Thalia](https://www.thalia.de/shop/home/artikeldetails/A1030394648) |
+| Krieg und Frieden (ungekürzt)    | Toilstoi, Leo N. | € 53,99 | [Thalia](https://www.horchposten.de/hoerbuecher/index.php?id=2) |
 
 ## Werkzeug &amp; Geräte
 | Titel                                                           | Preis     | Bezugsquelle                                                                                                          |
@@ -109,6 +110,7 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 | Sensepeek 4007 PCBite Platinenhalter-Set mit großer Grundplatte | ~ € 82,00 | [Welectron](https://www.welectron.com/Sensepeek-4007-PCBite-Platinenhalter-Set-mit-grosser-Grundplatte)               |
 | ELV Experimentierset Operationsverstärker inkl. Make Sonderheft | ~ € 50,00 | [ELV](https://de.elv.com/elv-experimentierset-operationsverstaerker-inkl-make-sonderheft-253005?fs=2091775902&c=1024) |
 | Victorinox Ratsche-Schlüssel Bithalter + 6 Bits                 | ~ € 45,00 | [Amazon](https://www.amazon.de/dp/B000MLUB5G/)                                                                        |
+| Wunderkey Multitool                                             | ~ € 15,00 | [Amazon](https://www.amazon.de/dp/B0B9YHHPL5/)                                                                        |
 
 ## Filme & Serien
 | Titel                                                           |     Preis | Kaufvorschlag                                                                     |
