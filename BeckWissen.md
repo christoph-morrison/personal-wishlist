@@ -86,7 +86,7 @@
 | BK-111         | Füssel, Marian                     | Waterloo 1815                       | 9783406676727 |
 | BK-112         | Faroqhi, Suraiya                   | Geschichte des Osmanischen Reiches  | 9783406460210 |
 | BK-113         | Ehlers, Joachim                    | Der Hundertjährige Krieg            | 9783406562754 |
-| BK-114         | Epkenhans, Michael                 | Die Reichsgründunbg 1870/71         | 9783406750328 |
+| BK-114         | Epkenhans, Michael                 | Die Reichsgründung 1870/71          | 9783406750328 |
 | BK-115         | Engels, Johannes                   | Die Sieben Weisen                   | 9783406587856 |
 | BK-116         | Schreiber, Johannes                | Der zweite Weltkrieg                | 9783406447648 |
 | BK-117         | Ehlers, Joachim                    | Die Ritter                          | 9783406508929 |
