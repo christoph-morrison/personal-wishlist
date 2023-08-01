@@ -112,6 +112,7 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 | Wunderkey Multitool                                             | ~ € 15,00  | [Amazon](https://www.amazon.de/dp/B0B9YHHPL5/)                                                                        |
 | Hakko Omnivise PCB-Halter (C1390C)                              | ~ € 70,00  | [Amazon](https://www.amazon.de/dp/B00IX2H050/)                                                                        |
 | JUNTEK PSG9080 80M DDS Dual-Kanal  Signal Generator             | ~ € 230,00 | [AliExpress](https://de.aliexpress.com/item/1005001848334222.html)                                                    |
+| Wera 05020013001 Joker 11 Set                                   | ~ € 185,00 | [Amazon](https://www.amazon.de/dp/B00BT0AYG0/)                                                                        |
 
 ## Filme & Serien
 | Titel                                                           |     Preis | Kaufvorschlag                                                                     |
