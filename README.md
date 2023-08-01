@@ -104,13 +104,14 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 | Krieg und Frieden (ungekürzt)    | Toilstoi, Leo N. | € 53,99 | [Thalia](https://www.thalia.de/shop/home/artikeldetails/A1030394648) |
 
 ## Werkzeug &amp; Geräte
-| Titel                                                           | Preis     | Bezugsquelle                                                                                                          |
-|:----------------------------------------------------------------|:----------|:----------------------------------------------------------------------------------------------------------------------|
-| Sensepeek 4007 PCBite Platinenhalter-Set mit großer Grundplatte | ~ € 82,00 | [Welectron](https://www.welectron.com/Sensepeek-4007-PCBite-Platinenhalter-Set-mit-grosser-Grundplatte)               |
-| ELV Experimentierset Operationsverstärker inkl. Make Sonderheft | ~ € 50,00 | [ELV](https://de.elv.com/elv-experimentierset-operationsverstaerker-inkl-make-sonderheft-253005?fs=2091775902&c=1024) |
-| Victorinox Ratsche-Schlüssel Bithalter + 6 Bits                 | ~ € 45,00 | [Amazon](https://www.amazon.de/dp/B000MLUB5G/)                                                                        |
-| Wunderkey Multitool                                             | ~ € 15,00 | [Amazon](https://www.amazon.de/dp/B0B9YHHPL5/)                                                                        |
-| Hakko Omnivise PCB-Halter (C1390C)                              | ~ € 70,00 | [Amazon](https://www.amazon.de/dp/B00IX2H050/)                                                                        |
+| Titel                                                           | Preis      | Bezugsquelle                                                                                                          |
+|:----------------------------------------------------------------|:-----------|:----------------------------------------------------------------------------------------------------------------------|
+| Sensepeek 4007 PCBite Platinenhalter-Set mit großer Grundplatte | ~ € 82,00  | [Welectron](https://www.welectron.com/Sensepeek-4007-PCBite-Platinenhalter-Set-mit-grosser-Grundplatte)               |
+| ELV Experimentierset Operationsverstärker inkl. Make Sonderheft | ~ € 50,00  | [ELV](https://de.elv.com/elv-experimentierset-operationsverstaerker-inkl-make-sonderheft-253005?fs=2091775902&c=1024) |
+| Victorinox Ratsche-Schlüssel Bithalter + 6 Bits                 | ~ € 45,00  | [Amazon](https://www.amazon.de/dp/B000MLUB5G/)                                                                        |
+| Wunderkey Multitool                                             | ~ € 15,00  | [Amazon](https://www.amazon.de/dp/B0B9YHHPL5/)                                                                        |
+| Hakko Omnivise PCB-Halter (C1390C)                              | ~ € 70,00  | [Amazon](https://www.amazon.de/dp/B00IX2H050/)                                                                        |
+| JUNTEK PSG9080 80M DDS Dual-Kanal  Signal Generator             | ~ € 230,00 | [AliExpress](https://de.aliexpress.com/item/1005001848334222.html)                                                    |
 
 ## Filme & Serien
 | Titel                                                           |     Preis | Kaufvorschlag                                                                     |
