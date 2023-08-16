@@ -149,6 +149,5 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 | 2x Französisches Bistroglas (500ml)     |  je € 2,90 | [Manufactum](https://www.manufactum.de/franzoesisches-bistroglas-a43848/)                                                     |
 | PS Kabelorganisationsset                |    € 34,00 | [Manufactum](https://www.manufactum.de/kabelorganisation-ps-a59063/)                                                          |
 | 1805 Cologne                            |  ~ € 75,00 | [Manufactum](https://www.manufactum.de/1805-cologne-a207731/)                                                                 |
-| Penhaglion's The Tragedy of Lord George | ~ € 250,00 | [Penhaglions](https://www.penhaligons.com/uk/de/categories/fragrances/shop-all/the-tragedy-of-lord-george-000000000065173406) |
 | Nagel-Set 02-12                         |  ~ € 60,00 | [Manufactum](https://www.manufactum.de/nagel-set-02-12-a88271/)                                                               |
 | Yankee Candle "Misty Mountains"         |  ~ € 50,00 |                                                                                                                               | 
