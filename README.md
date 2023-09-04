@@ -125,6 +125,7 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 | JOY-iT RD6006 Labornetzteil-Bundle (360 W)                      | € 164,95   | [Elektor](https://www.elektor.de/tools/test-measurement/power-supplies/joy-it-rd6006-dc-power-supply-bundle-360-w?utm_source=MagazineSite&utm_medium=ProductLink) |
 | Aixun P3208 320W Phone Power Supply and Test Station            | ~ € 179,00 | [AliExpress](https://de.aliexpress.com/item/1005005486135211.html)                                                                                                |
 | PC3000 FE Werkzeug                                              | ~ € 50,00  | [AliExpress](https://de.aliexpress.com/item/1005003170484456.html)                                                                                                |
+| Pokit Pro                                                       | ~ $ 200,00 | [Pokit](https://shop.pokitmeter.com/products/pokit-pro)                                                                                                           |
 
 ## Filme & Serien
 | Titel                                                           |     Preis | Kaufvorschlag                                                                     |
