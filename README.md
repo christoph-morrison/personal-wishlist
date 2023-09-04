@@ -88,7 +88,7 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 | Offensive Engines - Projektemacher und Militärtechnik im langen 18. Jahrhundert                                                           | Droste, Stefan                             | 978-3515132428 |    € 72,00 | [Amazon](https://www.amazon.de/dp/3515132422)                                                                                                                                      |
 | Les Fleurs du Mal - Die Blumen des Bösen                                                                                                  | Baudelaire, Charles; Werle, Simon          | 978-3498006778 |    € 38,00 | [Amazon](https://www.amazon.de/dp/3498006770/)                                                                                                                                     |
 | The Tank Book: The Definitive Visual History of Armoured Vehicles                                                                         | DK                                         | 978-0241638781 |  ~ € 30,00 | [Amazon](https://amzn.eu/d/gMvHVM5)                                                                                                                                                |
-
+| Der Drache in meiner Garage oder die Kunst der Wissenschaft, Unsinn zu entlarven                                                          | Sagan, Carl                                | 978-3426269121 |    ~ 65,00 | [Amazon](https://amzn.eu/d/2C975NL)                                                                                                                                                |
 
 ## Belles lettres
 | Titel                                         | Autor(en)                        | ISBN           |      Preis | Kaufvorschlag                                                                                                                             |
@@ -105,6 +105,7 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 |:---------------------------------|:-----------------|:-------:|:---------------------------------------------------------------------|
 | Die Höredition der Weltliteratur | div.             | € 78,99 | [Thalia](https://www.thalia.de/shop/home/artikeldetails/A1036033744) |
 | Krieg und Frieden (ungekürzt)    | Toilstoi, Leo N. | € 53,99 | [Thalia](https://www.thalia.de/shop/home/artikeldetails/A1030394648) |
+
 
 ## Werkzeug &amp; Geräte
 | Titel                                                           | Preis      | Bezugsquelle                                                                                                                                                      |
