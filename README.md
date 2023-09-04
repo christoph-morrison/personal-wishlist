@@ -123,6 +123,7 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 | JUNTEK PSG9080 80M DDS Dual-Kanal  Signal Generator             | ~ € 230,00 | [AliExpress](https://de.aliexpress.com/item/1005001848334222.html)                                                                                                |
 | Wera 05020013001 Joker 11 Set                                   | ~ € 185,00 | [Amazon](https://www.amazon.de/dp/B00BT0AYG0/)                                                                                                                    |
 | JOY-iT RD6006 Labornetzteil-Bundle (360 W)                      | € 164,95   | [Elektor](https://www.elektor.de/tools/test-measurement/power-supplies/joy-it-rd6006-dc-power-supply-bundle-360-w?utm_source=MagazineSite&utm_medium=ProductLink) |
+| Aixun P3208 320W Phone Power Supply and Test Station            | ~ € 179,00 | [AliExpress](https://de.aliexpress.com/item/1005005486135211.html)                                                                                                |
 
 ## Filme & Serien
 | Titel                                                           |     Preis | Kaufvorschlag                                                                     |
