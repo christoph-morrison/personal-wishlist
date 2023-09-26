@@ -126,6 +126,7 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 | Aixun P3208 320W Phone Power Supply and Test Station            | ~ € 179,00 | [AliExpress](https://de.aliexpress.com/item/1005005486135211.html)                                                                                                |
 | PC3000 FE Werkzeug                                              | ~ € 50,00  | [AliExpress](https://de.aliexpress.com/item/1005003170484456.html)                                                                                                |
 | Pokit Pro                                                       | ~ $ 200,00 | [Pokit](https://shop.pokitmeter.com/products/pokit-pro)                                                                                                           |
+| Ollie v2                                                        | ~ $ 100,00 | [CrowdSupply](https://www.crowdsupply.com/meatpi-electronics/ollie-v2#products)                                                                                   |
 
 ## Filme & Serien
 | Titel                                                           |     Preis | Kaufvorschlag                                                                     |
