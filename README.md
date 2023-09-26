@@ -109,7 +109,6 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 | Titel                            | Autor(en)        |  Preis  | Kaufvorschlag                                                        |
 |:---------------------------------|:-----------------|:-------:|:---------------------------------------------------------------------|
 | Die Höredition der Weltliteratur | div.             | € 78,99 | [Thalia](https://www.thalia.de/shop/home/artikeldetails/A1036033744) |
-| Krieg und Frieden (ungekürzt)    | Toilstoi, Leo N. | € 53,99 | [Thalia](https://www.thalia.de/shop/home/artikeldetails/A1030394648) |
 
 
 ## Werkzeug &amp; Geräte
