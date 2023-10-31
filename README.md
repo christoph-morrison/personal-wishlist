@@ -127,6 +127,8 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 | PC3000 FE Werkzeug                                              | ~ € 50,00  | [AliExpress](https://de.aliexpress.com/item/1005003170484456.html)                                                                                                |
 | Pokit Pro                                                       | ~ $ 200,00 | [Pokit](https://shop.pokitmeter.com/products/pokit-pro)                                                                                                           |
 | Ollie v2                                                        | ~ $ 100,00 | [CrowdSupply](https://www.crowdsupply.com/meatpi-electronics/ollie-v2#products)                                                                                   |
+| Proxmark 3                                                      | ~ $ 90,00  | [Electronic Cats](https://electroniccats.com/store/proxmark/)                                                                                                     |
+
 
 ## Filme & Serien
 | Titel                                                           |     Preis | Kaufvorschlag                                                                     |
