@@ -105,6 +105,7 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 | Tristesse Droite - Die Abende von Schnellroda | Kositza, Ellen; Kubitschek, Götz | 978-3944422213 |  ~ € 80,00 | [Booklooker](https://www.booklooker.de/B%C3%BCcher/Ellen-Kubitschek-Kositza+Tristesse-Droite-Die-Abende-von-Schnellroda/id/A02yfLJf01ZZd) |
 | Sea Changes                                   | Turner, Derek                    | 978-3981782813 |    € 24,00 | [Jvngeuropa Verlag](https://www.jungeuropa.de/autoren/derek-turner/178/sea-changes)                                                       |
 | The Hobbit: Illustrated by the Author         | Tolkien, J.R.R.                  | 978-0008627782 |  ~ € 40,00 | [Amazon](https://www.amazon.de/dp/0008627789)                                                                                             |
+| Der Ring des Nibelungen                       | Russell, Philip Craig            | 978-3966589437 |    € 49,99 | [Antaios](https://antaios.de/buecher-anderer-verlage/aus-dem-aktuellen-prospekt/173488/der-ring-des-nibelungen)                           |
 
 ## Hörbücher und -spiele
 | Titel                            | Autor(en)        |  Preis  | Kaufvorschlag                                                        |
