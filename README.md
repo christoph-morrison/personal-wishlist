@@ -165,4 +165,3 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 | PS Kabelorganisationsset                |    € 34,00 | [Manufactum](https://www.manufactum.de/kabelorganisation-ps-a59063/)                                                          |
 | 1805 Cologne                            |  ~ € 75,00 | [Manufactum](https://www.manufactum.de/1805-cologne-a207731/)                                                                 |
 | Nagel-Set 02-12                         |  ~ € 60,00 | [Manufactum](https://www.manufactum.de/nagel-set-02-12-a88271/)                                                               |
-| Yankee Candle "Misty Mountains"         |  ~ € 50,00 |                                                                                                                               | 
