@@ -129,7 +129,7 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 | Pokit Pro                                                       | ~ $ 200,00 | [Pokit](https://shop.pokitmeter.com/products/pokit-pro)                                                                                                           |
 | Ollie v2                                                        | ~ $ 100,00 | [CrowdSupply](https://www.crowdsupply.com/meatpi-electronics/ollie-v2#products)                                                                                   |
 | Proxmark 3                                                      | ~ $ 90,00  | [Electronic Cats](https://electroniccats.com/store/proxmark/)                                                                                                     |
-
+| Joy-IT Entdeckerboard "Explorer Board"                          | ~ € 23,90  | [ELV](https://de.elv.com/joy-it-entdeckerboard-explorer-board-253681?fs=3627121981&c=785)                                                                         |
 
 ## Filme & Serien
 | Titel                                                           |     Preis | Kaufvorschlag                                                                     |
