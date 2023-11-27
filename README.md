@@ -95,6 +95,11 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 | German Armies 1870-71. Teil 1: Prussia                                                                                                    | Solka, M./ Pavlivic, D.                    | 978-1841767543 |    € 14,95 | [Berliner Zinnfiguren](https://www.zinnfigur.com/Buecher-Medien/Osprey/Osprey-Men-at-Arms/1830-1918/Solka-M-Pavlivic-D-Illustr-German-Armies-1870-71-Teil-1-Prussia.html?listtype=search&searchparam=prussia)                                           |
 | The Armies of Bismarck's Wars. The Army of Prussia - History, Uniforms, Weapons & Equipment, 1860-1867                                    | Bassett-Powell, Bruce                      | 978-1935149231 |    € 59,95 | [Berliner Zinnfiguren](https://www.zinnfigur.com/Buecher-Medien/Buecher/1830-1914/Deutschland/Bassett-Powell-B-The-Armies-of-Bismarck-s-Wars-The-Army-of-Prussia-History-Uniforms-Weapons-Equipment-1860-1867.html?listtype=search&searchparam=prussia) |
 
+## Wargaming & RPG
+| Titel                         | Autor(en)                   | ISBN |     Preis | Kaufvorschlag                                                                                                                                                 |
+|:------------------------------|:----------------------------|:-----|----------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Blanche :The Rise of Grimdark | Wombat, John; Moreira, Ruth | n/a  | GBP 39,99 | [Ral Partha](https://www.ralparthaeurope.co.uk/shop/wombat-wargames-c-251/john-blanche-c-251_270/blanche-the-rise-of-grimdark-unlimited-preorder-p-4841.html) |
+
 ## Belles lettres
 | Titel                                         | Autor(en)                        | ISBN           |      Preis | Kaufvorschlag                                                                                                                             |
 |:----------------------------------------------|:---------------------------------|:---------------|-----------:|:------------------------------------------------------------------------------------------------------------------------------------------|
