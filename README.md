@@ -135,6 +135,7 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 | Proxmark 3                                                      | ~ $ 90,00  | [Electronic Cats](https://electroniccats.com/store/proxmark/)                                                                                                     |
 | Joy-IT Entdeckerboard "Explorer Board"                          | ~ € 23,90  | [ELV](https://de.elv.com/joy-it-entdeckerboard-explorer-board-253681?fs=3627121981&c=785)                                                                         |
 | OXON Elektronik-Experimentierplattform Oxocard Connect          | ~ € 33,00  | [ELV](https://de.elv.com/oxon-elektronik-experimentierplattform-oxocard-connect-253844?fs=2883669783&c=785)                                                       |
+| Joy-IT Programmierbares Labornetzgerät JT-PS1440-C              | ~ € 329,00 | [ELV](https://de.elv.com/joy-it-programmierbares-labornetzgeraet-jt-ps1440-c-253737?fs=648063823&c=785)                                                       |
 
 ## Filme & Serien
 | Titel                                                           |     Preis | Kaufvorschlag                                                                     |
