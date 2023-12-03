@@ -152,7 +152,6 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 | Strafbataillon 999 - BluRay                                     | ~ € 18,00 | [Amazon](https://www.amazon.de/dp/B08SGDZFK6/)                                    |
 | Division Brandenburg - BluRay                                   | ~ € 20,00 | [Amazon](https://www.amazon.de/dp/B08SGLZ89S/)                                    |
 | Die Buddenbrooks - Die komplette Serie in 11 Teilen (DVD)       | ~ € 22,00 | [Amazon](https://www.amazon.de/dp/B01N2P7Y1V/)                                    |
-| Die Buddenbrooks - Der legendäre Zweiteiler von 1959 (DVD)      | ~ € 18,00 | [Amazon](https://www.amazon.de/dp/B01M9BA881/)                                    |
 | Ein Mädchen aus Flandern (Engele von Loewen) (DVD)              | ~ € 14,00 | [Amazon](https://www.amazon.de/dp/B00G9JOWP0/)                                    |
 | Kriegsgesetz - Gesetz ohne Gnade                                | ~ € 14,00 | [Amazon](https://www.amazon.de/dp/B00G9JOWNW/)                                    |
 | Und ewig singen die Wälder / Das Erbe von Björndal (2 DVD)      | ~ € 16,00 | [Amazon](https://www.amazon.de/dp/B07VFQMHLK)                                     |
