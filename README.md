@@ -161,6 +161,7 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 | Der Salzbaron - Der komplette Historien-Mehrteiler (4 DVD)      | ~ € 16,00 | [Amazon](https://www.amazon.de/dp/B00BQXX6HE)                                     |
 | Flußfahrt mit Huhn (BR)                                         |  ~ € 9,00 | [Amazon](https://www.amazon.de/dp/B00HVP4V5M)                                     |
 | Peer Gynt                                                       | ~ € 20,00 | [JPC](https://www.jpc.de/jpcng/movie/detail/-/art/Peer-Gynt/hnum/6123270)         |
+| Girls & Panzer - Der Film                                       |   € 24,99 | [Amazon](https://www.amazon.de/dp/B01NBVMCFI/)      |
 
 
 ## Haushaltswaren und Hygieneartikel
