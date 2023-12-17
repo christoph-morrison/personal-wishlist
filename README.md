@@ -155,7 +155,6 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 | Ein Mädchen aus Flandern (Engele von Loewen) (DVD)              | ~ € 14,00 | [Amazon](https://www.amazon.de/dp/B00G9JOWP0/)                                    |
 | Kriegsgesetz - Gesetz ohne Gnade                                | ~ € 14,00 | [Amazon](https://www.amazon.de/dp/B00G9JOWNW/)                                    |
 | Und ewig singen die Wälder / Das Erbe von Björndal (2 DVD)      | ~ € 16,00 | [Amazon](https://www.amazon.de/dp/B07VFQMHLK)                                     |
-| Karl der Große - Der komplette Historien-Dreiteiler (2 DVD)     | ~ € 16,00 | [Amazon](https://www.amazon.de/dp/B00BQ9N54C)                                     |
 | Die Strauß-Dynastie: Teil 1-6 (4 DVD)                           | ~ € 20,00 | [Amazon](https://www.amazon.de/dp/B009XL5NY0)                                     |
 | Peter der Große - Der komplette Vierteiler (4 DVD)              | ~ € 20,00 | [Amazon](https://www.amazon.de/dp/B009KY0TT4)                                     |
 | Der Salzbaron - Der komplette Historien-Mehrteiler (4 DVD)      | ~ € 16,00 | [Amazon](https://www.amazon.de/dp/B00BQXX6HE)                                     |
