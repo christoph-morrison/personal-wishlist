@@ -144,7 +144,6 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 | African Queen - Special Edition (4K Ultra HD) (+ Blu-ray)       |   € 24,99 | [Amazon](https://www.amazon.de/African-Queen-Special-Ultra-Blu-ray/dp/B0BG76Y655) |
 | Zulu (Blu Ray)                                                  | ~ € 10,00 | [Amazon](https://www.amazon.de/gp/product/B00PXJI1O0/)                            | 
 | MacBeth (Blu Ray)                                               | ~ € 10,00 | [Amazon](https://www.amazon.de/gp/product/B019K0O56K/)                            | 
-| Aus einem deutschen Leben (Neuauflage / HD Remastered) - BluRay | ~ € 15,00 | [Amazon](https://www.amazon.de/dp/B00KGRTYHW/)                                    |
 | Admiral Canaris - Ein Leben für Deutschland                     | ~ € 13,00 | [Amazon](https://www.amazon.de/dp/B07BZ5F6YC/)                                    |
 | 08/15 - Die komplette Filmtrilogie                              | ~ € 16,00 | [Amazon](https://www.amazon.de/dp/B01M2Z2PUC/)                                    |
 | Steiner - Das eiserne Kreuz Teil 1+2 (HD-Doppelbox) - BluRay    | ~ € 20,00 | [Amazon](https://www.amazon.de/dp/B01MZGXXJX/)                                    |
