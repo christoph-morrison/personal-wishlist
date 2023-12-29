@@ -165,7 +165,6 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 ## Haushaltswaren und Hygieneartikel
 | Artikel                                 |     Preis | Kaufvorschlag                                                                           |
 |:----------------------------------------|----------:|:----------------------------------------------------------------------------------------|
-| PS Kabelorganisationsset                |   € 34,00 | [Manufactum](https://www.manufactum.de/kabelorganisation-ps-a59063/)                    |
 | 1805 Cologne                            | ~ € 75,00 | [Manufactum](https://www.manufactum.de/1805-cologne-a207731/)                           |
 | In the Woods Eau de Parfum|  ~ 119,00 | [Manufactum](https://www.manufactum.de/the-woods-eau-de-parfum-a22041/) |
 
