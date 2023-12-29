@@ -166,7 +166,6 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 | Artikel                                 |     Preis | Kaufvorschlag                                                                           |
 |:----------------------------------------|----------:|:----------------------------------------------------------------------------------------|
 | Dovo Rahmenetui                         |  € 337,00 | [Manufactum](https://www.manufactum.de/dovo-rahmenetui-a44117/)                         |
-| 2x Französisches Bistroglas (500ml)     | je € 2,90 | [Manufactum](https://www.manufactum.de/franzoesisches-bistroglas-a43848/)               |
 | PS Kabelorganisationsset                |   € 34,00 | [Manufactum](https://www.manufactum.de/kabelorganisation-ps-a59063/)                    |
 | 1805 Cologne                            | ~ € 75,00 | [Manufactum](https://www.manufactum.de/1805-cologne-a207731/)                           |
 | In the Woods Eau de Parfum|  ~ 119,00 | [Manufactum](https://www.manufactum.de/the-woods-eau-de-parfum-a22041/) |
