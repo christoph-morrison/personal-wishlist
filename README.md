@@ -110,7 +110,7 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 ## Hörbücher und -spiele
 | Titel                            | Autor(en)        |  Preis  | Kaufvorschlag                                                        |
 |:---------------------------------|:-----------------|:-------:|:---------------------------------------------------------------------|
-| Die Höredition der Weltliteratur | div.             | € 78,99 | [Thalia](https://www.thalia.de/shop/home/artikeldetails/A1036033744) |
+
 
 ## Werkzeug &amp; Geräte
 | Titel                                                                        | Preis       | Bezugsquelle                                                                                                                                                      |
