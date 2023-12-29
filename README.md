@@ -169,7 +169,6 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 | 2x Französisches Bistroglas (500ml)     | je € 2,90 | [Manufactum](https://www.manufactum.de/franzoesisches-bistroglas-a43848/)               |
 | PS Kabelorganisationsset                |   € 34,00 | [Manufactum](https://www.manufactum.de/kabelorganisation-ps-a59063/)                    |
 | 1805 Cologne                            | ~ € 75,00 | [Manufactum](https://www.manufactum.de/1805-cologne-a207731/)                           |
-| Nagel-Set 02-12                         | ~ € 60,00 | [Manufactum](https://www.manufactum.de/nagel-set-02-12-a88271/)                         |
 | Koh-i-Noor Minenhalter farbig 2-mm-Mine | ~ € 59,90 | [Manufactum](https://www.manufactum.de/koh-i-noor-minenhalter-farbig-2-mm-mine-a23304/) |
 | In the Woods Eau de Parfum|  ~ 119,00 | [Manufactum](https://www.manufactum.de/the-woods-eau-de-parfum-a22041/) |
 
