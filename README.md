@@ -34,6 +34,8 @@ Meine Leseliste ist bis zum Lebensende gefüllt. Vielen Dank für die vielen Ges
 | Joy-IT Programmierbares Labornetzgerät JT-PS1440-C                           | ~ € 329,00  | [ELV](https://de.elv.com/joy-it-programmierbares-labornetzgeraet-jt-ps1440-c-253737?fs=648063823&c=785)                                                           |
 | Komplettes Origin System                                                     | ~ € 4700,00 | [ShaperTools](https://www.shapertools.com/de-de/store/package/origin-packages)                                                                                    |
 
+Siehe auch meine [Wunschliste bei Amazon](https://www.amazon.de/hz/wishlist/ls/IOE8AWT2OXWS).
+
 ## Filme & Serien
 | Titel                                                           |     Preis | Kaufvorschlag                                                                     |
 |:----------------------------------------------------------------|----------:|:----------------------------------------------------------------------------------|
