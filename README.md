@@ -33,7 +33,8 @@ Meine Leseliste ist bis zum Lebensende gefüllt. Vielen Dank für die vielen Ges
 | OXON Elektronik-Experimentierplattform Oxocard Connect Innovator Starter-Kit | € 89,00     | [ELV](https://de.elv.com/oxon-elektronik-experimentierplattform-oxocard-connect-innovator-starter-kit-253843)                                                     |
 | Joy-IT Programmierbares Labornetzgerät JT-PS1440-C                           | ~ € 329,00  | [ELV](https://de.elv.com/joy-it-programmierbares-labornetzgeraet-jt-ps1440-c-253737?fs=648063823&c=785)                                                           |
 | Komplettes Origin System                                                     | ~ € 4700,00 | [ShaperTools](https://www.shapertools.com/de-de/store/package/origin-packages)                                                                                    |
-| A2C CABERQU                                                                  | ~ € 30,00   | [caberqu.com](https://caberqu.com/home/29-40-a2c-caberqu-746052578820.html#/26-case-without_case)                                                                 |
+| A2C CABERQU (without case)                                                   | ~ € 30,00   | [caberqu.com](https://caberqu.com/home/29-40-a2c-caberqu-746052578820.html#/26-case-without_case)                                                                 |
+| ESP32 WROOM pogo pin programmer board                                        | ~ $ 24,00   | [tindie.com](https://www.tindie.com/products/petl/esp32-wroom-pogo-pin-programmer-board/)                                                                         |
 
 Siehe auch meine [Wunschliste bei Amazon](https://www.amazon.de/hz/wishlist/ls/IOE8AWT2OXWS).
 
