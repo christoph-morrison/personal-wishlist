@@ -35,7 +35,7 @@ Meine Leseliste ist bis zum Lebensende gefüllt. Vielen Dank für die vielen Ges
 | Komplettes Origin System                                                     | ~ € 4700,00 | [ShaperTools](https://www.shapertools.com/de-de/store/package/origin-packages)                                                                                    |
 | A2C CABERQU (without case)                                                   | ~ € 30,00   | [caberqu.com](https://caberqu.com/home/29-40-a2c-caberqu-746052578820.html#/26-case-without_case)                                                                 |
 | ESP32 WROOM pogo pin programmer board                                        | ~ $ 24,00   | [tindie.com](https://www.tindie.com/products/petl/esp32-wroom-pogo-pin-programmer-board/)                                                                         |
-
+| Haupa Crimp-Set X-Crimp inklusive Gürteltasche                               | ~ € 130,00  | (Haupa)[https://www.haupa.com/de/produkte/produktdetails/page/2616/product/211692/]                                                                                                                                                         |
 Siehe auch meine [Wunschliste bei Amazon](https://www.amazon.de/hz/wishlist/ls/IOE8AWT2OXWS).
 
 ## Filme & Serien
