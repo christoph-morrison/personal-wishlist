@@ -37,6 +37,7 @@ Meine Leseliste ist bis zum Lebensende gefüllt. Vielen Dank für die vielen Ges
 | ESP32 WROOM pogo pin programmer board                                        | ~ $ 24,00   | [tindie.com](https://www.tindie.com/products/petl/esp32-wroom-pogo-pin-programmer-board/)                                                                         |
 | Haupa Crimp-Set X-Crimp inklusive Gürteltasche                               | ~ € 130,00  | (Haupa)[https://www.haupa.com/de/produkte/produktdetails/page/2616/product/211692/]                                                                               |
 | ChargerLAB POWER-Z USB PD 3,1 protokoll 48V bereich dual Typ-C tester KM003C | ~ € 80,00   | [AliExpress](https://de.aliexpress.com/item/1005003762968353.html)                                                                                                |
+| Raspberry Pi 400 DE                                                          | ~ € 80,00   | [Berrybase](https://www.berrybase.de/raspberry-pi-400-de)                                                                                                         |
 
 Siehe auch meine [Wunschliste bei Amazon](https://www.amazon.de/hz/wishlist/ls/IOE8AWT2OXWS).
 
