@@ -53,7 +53,6 @@ Siehe auch meine [Wunschliste bei Amazon](https://www.amazon.de/hz/wishlist/ls/I
 | Das Spinnennetz - BluRay                                        | ~ € 13,00 | [Amazon](https://www.amazon.de/dp/B00IK6XLNE/)                                    |
 | Strafbataillon 999 - BluRay                                     | ~ € 18,00 | [Amazon](https://www.amazon.de/dp/B08SGDZFK6/)                                    |
 | Division Brandenburg - BluRay                                   | ~ € 20,00 | [Amazon](https://www.amazon.de/dp/B08SGLZ89S/)                                    |
-| Die Buddenbrooks - Die komplette Serie in 11 Teilen (DVD)       | ~ € 22,00 | [Amazon](https://www.amazon.de/dp/B01N2P7Y1V/)                                    |
 | Ein Mädchen aus Flandern (Engele von Loewen) (DVD)              | ~ € 14,00 | [Amazon](https://www.amazon.de/dp/B00G9JOWP0/)                                    |
 | Kriegsgesetz - Gesetz ohne Gnade                                | ~ € 14,00 | [Amazon](https://www.amazon.de/dp/B00G9JOWNW/)                                    |
 | Und ewig singen die Wälder / Das Erbe von Björndal (2 DVD)      | ~ € 16,00 | [Amazon](https://www.amazon.de/dp/B07VFQMHLK)                                     |
