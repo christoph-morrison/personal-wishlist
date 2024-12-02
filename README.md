@@ -75,4 +75,3 @@ Siehe auch meine [Wunschliste bei Amazon](https://www.amazon.de/hz/wishlist/ls/I
 ## Besonderheiten
 | Artikel                                       |   Preis | Kaufvorschlag                                                               |
 |:----------------------------------------------|--------:|:----------------------------------------------------------------------------|
-| Massepain Sleeubus Belgische Marzipanpralinen | € 22,90 | [Manufactum](https://www.manufactum.de/belgische-marzipanpralinen-a211624/) |
