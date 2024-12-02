@@ -69,8 +69,6 @@ Siehe auch meine [Wunschliste bei Amazon](https://www.amazon.de/hz/wishlist/ls/I
 ## Haushaltswaren und Hygieneartikel
 | Artikel                                 |     Preis | Kaufvorschlag                                                                           |
 |:----------------------------------------|----------:|:----------------------------------------------------------------------------------------|
-| 1805 Cologne                            | ~ € 75,00 | [Manufactum](https://www.manufactum.de/1805-cologne-a207731/)                           |
-| In the Woods Eau de Parfum|  ~ 119,00 | [Manufactum](https://www.manufactum.de/the-woods-eau-de-parfum-a22041/) |
 
 ## Besonderheiten
 | Artikel                                       |   Preis | Kaufvorschlag                                                               |
