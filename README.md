@@ -62,8 +62,6 @@ Siehe auch meine [Wunschliste bei Amazon](https://www.amazon.de/hz/wishlist/ls/I
 | Und ewig singen die Wälder / Das Erbe von Björndal (2 DVD)      | ~ € 16,00 | [Amazon](https://www.amazon.de/dp/B07VFQMHLK)                                     |
 | Flußfahrt mit Huhn (BR)                                         |  ~ € 9,00 | [Amazon](https://www.amazon.de/dp/B00HVP4V5M)                                     |
 | Peer Gynt                                                       | ~ € 20,00 | [JPC](https://www.jpc.de/jpcng/movie/detail/-/art/Peer-Gynt/hnum/6123270)         |
-| Girls & Panzer - Der Film                                       |   € 24,99 | [Amazon](https://www.amazon.de/dp/B01NBVMCFI/)      |
-
 
 ## Haushaltswaren und Hygieneartikel
 | Artikel                                 |     Preis | Kaufvorschlag                                                                           |
