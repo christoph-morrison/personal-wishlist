@@ -105,4 +105,5 @@ Reihe interessiert, so lange es nicht bereits  auf der [Bestandsliste](BeckWisse
 | BK-123                               | Rittberger, Berthold               | Die Europäische Union               | 9783406775079 |
 | f4acd15e-3f68-46ee-a23b-528937e7a3a9 | Zadoff, Noam                       | Geschichte Israels                  | 9783406816956 |
 | cb29df86-2574-4d7c-b9b3-1404ed214594 | Mauelshagen, Franz                 | Geschichte des Klimas               | 9783406791482 |
+| 11762d6e-32e8-40d2-8a1d-17b2c0ce9b7b | Daum, Andreas W.                   | Alexander von Humboldt              | 9783406824180 |
 
