@@ -42,7 +42,8 @@ Meine Leseliste ist bis zum Lebensende gefüllt. Vielen Dank für die vielen Ges
 | OWON SPM6103 1 Kanal Netzteil + Multimeter 0-60V 10A                            | ~ € 180,00  | [Preisvergleich](https://www.idealo.de/preisvergleich/Liste/120640326/owon-spm6103.html)                                                                          |
 | XGecu T48 Universal Programmer USB Programmer with 13 Parts Supports 34000+ ICs | ~ € 180,00  | [eBay](https://www.ebay.de/itm/355110179785)                                                                                                                      |
 | Makita DMR 112 Solo                                                             | ~ € 150,00  | [idealo](https://www.idealo.de/preisvergleich/OffersOfProduct/201912756_-dmr-112-solo-makita.html)                                                                |
-| RC3563 200Ω 100V Handheld Battery Tester                                        | ~ € 30,00   | [AliExpress](https://de.aliexpress.com/item/1005007964237903.html)                                                            |
+| RC3563 200Ω 100V Handheld Battery Tester                                        | ~ € 30,00   | [AliExpress](https://de.aliexpress.com/item/1005007964237903.html)                                                                                                |
+| Wiha Werkstatt Wechselklingen-Set 11teilig                                      | ~ € 75,00   | [Preisvergleich](https://www.idealo.de/preisvergleich/OffersOfProduct/2848461_-kombiklingen-satz-system-6-11-teilig-281b11-wiha.html)                                                                                            |
 
 Siehe auch meine [Wunschliste bei Amazon](https://www.amazon.de/hz/wishlist/ls/IOE8AWT2OXWS).
 
