@@ -46,6 +46,7 @@ Meine Leseliste ist bis zum Lebensende gefüllt. Vielen Dank für die vielen Ges
 | Wiha Werkstatt Wechselklingen-Set 11teilig                                      | ~ € 75,00   | [Preisvergleich](https://www.idealo.de/preisvergleich/OffersOfProduct/2848461_-kombiklingen-satz-system-6-11-teilig-281b11-wiha.html)                             |
 | UJK Parf Mk II Guide System                                                     | ~ € 270,00  | [Axminster Tools](https://www.axminstertools.com/eu/ujk-technology-parf-guide-system-mkii-104779)                                                                 |
 | Kabeltester VOLTCRAFT CT-7                                                      | ~ € 300,00  | [Preisvergleich](https://www.idealo.de/preisvergleich/OffersOfProduct/1944552_-ct-7-voltcraft.html)                                                                  |
+| Proxxon 23660 Werkzeugset in L-Boxx                                             | ~ € 220,00  | [Preisvergleich](https://www.idealo.de/preisvergleich/OffersOfProduct/6185521_-23660-proxxon.html)                                                                  |
 
 Siehe auch meine [Wunschliste bei Amazon](https://www.amazon.de/hz/wishlist/ls/IOE8AWT2OXWS).
 
