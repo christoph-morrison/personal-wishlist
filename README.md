@@ -59,7 +59,6 @@ Siehe auch meine [Wunschliste bei Amazon](https://www.amazon.de/hz/wishlist/ls/I
 | Das Spinnennetz - BluRay                                        | ~ € 13,00 | [Amazon](https://www.amazon.de/dp/B00IK6XLNE/)                                    |
 | Strafbataillon 999 - BluRay                                     | ~ € 18,00 | [Amazon](https://www.amazon.de/dp/B08SGDZFK6/)                                    |
 | Division Brandenburg - BluRay                                   | ~ € 20,00 | [Amazon](https://www.amazon.de/dp/B08SGLZ89S/)                                    |
-| Ein Mädchen aus Flandern (Engele von Loewen) (DVD)              | ~ € 14,00 | [Amazon](https://www.amazon.de/dp/B00G9JOWP0/)                                    |
 | Kriegsgesetz - Gesetz ohne Gnade                                | ~ € 14,00 | [Amazon](https://www.amazon.de/dp/B00G9JOWNW/)                                    |
 | Peer Gynt                                                       | ~ € 20,00 | [JPC](https://www.jpc.de/jpcng/movie/detail/-/art/Peer-Gynt/hnum/6123270)         |
 
