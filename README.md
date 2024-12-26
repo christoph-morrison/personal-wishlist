@@ -61,7 +61,6 @@ Siehe auch meine [Wunschliste bei Amazon](https://www.amazon.de/hz/wishlist/ls/I
 | Division Brandenburg - BluRay                                   | ~ € 20,00 | [Amazon](https://www.amazon.de/dp/B08SGLZ89S/)                                    |
 | Ein Mädchen aus Flandern (Engele von Loewen) (DVD)              | ~ € 14,00 | [Amazon](https://www.amazon.de/dp/B00G9JOWP0/)                                    |
 | Kriegsgesetz - Gesetz ohne Gnade                                | ~ € 14,00 | [Amazon](https://www.amazon.de/dp/B00G9JOWNW/)                                    |
-| Flußfahrt mit Huhn (BR)                                         |  ~ € 9,00 | [Amazon](https://www.amazon.de/dp/B00HVP4V5M)                                     |
 | Peer Gynt                                                       | ~ € 20,00 | [JPC](https://www.jpc.de/jpcng/movie/detail/-/art/Peer-Gynt/hnum/6123270)         |
 
 ## Haushaltswaren und Hygieneartikel
