@@ -44,6 +44,7 @@ Meine Leseliste ist bis zum Lebensende gefüllt. Vielen Dank für die vielen Ges
 | UJK Parf Mk II Guide System                                                     | ~ € 270,00  | [Axminster Tools](https://www.axminstertools.com/eu/ujk-technology-parf-guide-system-mkii-104779)                                                                 |
 | Kabeltester VOLTCRAFT CT-7                                                      | ~ € 300,00  | [Preisvergleich](https://www.idealo.de/preisvergleich/OffersOfProduct/1944552_-ct-7-voltcraft.html)                                                                  |
 | Proxxon 23660 Werkzeugset in L-Boxx                                             | ~ € 220,00  | [Preisvergleich](https://www.idealo.de/preisvergleich/OffersOfProduct/6185521_-23660-proxxon.html)                                                                  |
+| Jouloscope                                                                      | ~ € 1000,00 | [Jouloscope](https://www.joulescope.com/)                                                                  |
 
 Siehe auch meine [Wunschliste bei Amazon](https://www.amazon.de/hz/wishlist/ls/IOE8AWT2OXWS).
 
