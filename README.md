@@ -70,4 +70,3 @@ Siehe auch meine [Wunschliste bei Amazon](https://www.amazon.de/hz/wishlist/ls/I
 ## Besonderheiten
 | Artikel     |   Preis | Kaufvorschlag                                                               |
 |:------------|--------:|:----------------------------------------------------------------------------|
-| Technoline LED-Rucksack mit programmierbarem Display | ~ € 120,00 | [ELV](https://de.elv.com/p/technoline-bag1-P254187/?itemId=254187) |
