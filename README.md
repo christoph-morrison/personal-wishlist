@@ -51,19 +51,20 @@ Meine Leseliste ist bis zum Lebensende gefüllt. Vielen Dank für die vielen Ges
 Siehe auch meine [Wunschliste bei Amazon](https://www.amazon.de/hz/wishlist/ls/IOE8AWT2OXWS).
 
 ## Filme & Serien
-| Titel                                                           |     Preis | Kaufvorschlag                                                                     |
-|:----------------------------------------------------------------|----------:|:----------------------------------------------------------------------------------|
-| African Queen - Special Edition (4K Ultra HD) (+ Blu-ray)       |   € 24,99 | [Amazon](https://www.amazon.de/African-Queen-Special-Ultra-Blu-ray/dp/B0BG76Y655) |
-| Zulu (Blu Ray)                                                  | ~ € 10,00 | [Amazon](https://www.amazon.de/gp/product/B00PXJI1O0/)                            | 
-| MacBeth (Blu Ray)                                               | ~ € 10,00 | [Amazon](https://www.amazon.de/gp/product/B019K0O56K/)                            | 
-| Admiral Canaris - Ein Leben für Deutschland                     | ~ € 13,00 | [Amazon](https://www.amazon.de/dp/B07BZ5F6YC/)                                    |
-| 08/15 - Die komplette Filmtrilogie                              | ~ € 16,00 | [Amazon](https://www.amazon.de/dp/B01M2Z2PUC/)                                    |
-| Steiner - Das eiserne Kreuz Teil 1+2 (HD-Doppelbox) - BluRay    | ~ € 20,00 | [Amazon](https://www.amazon.de/dp/B01MZGXXJX/)                                    |
-| Das Spinnennetz - BluRay                                        | ~ € 13,00 | [Amazon](https://www.amazon.de/dp/B00IK6XLNE/)                                    |
-| Strafbataillon 999 - BluRay                                     | ~ € 18,00 | [Amazon](https://www.amazon.de/dp/B08SGDZFK6/)                                    |
-| Division Brandenburg - BluRay                                   | ~ € 20,00 | [Amazon](https://www.amazon.de/dp/B08SGLZ89S/)                                    |
-| Kriegsgesetz - Gesetz ohne Gnade                                | ~ € 14,00 | [Amazon](https://www.amazon.de/dp/B00G9JOWNW/)                                    |
-| Peer Gynt                                                       | ~ € 20,00 | [JPC](https://www.jpc.de/jpcng/movie/detail/-/art/Peer-Gynt/hnum/6123270)         |
+| Titel                                                        |     Preis | Kaufvorschlag                                                                     |
+|:-------------------------------------------------------------|----------:|:----------------------------------------------------------------------------------|
+| African Queen - Special Edition (4K Ultra HD) (+ Blu-ray)    |   € 24,99 | [Amazon](https://www.amazon.de/African-Queen-Special-Ultra-Blu-ray/dp/B0BG76Y655) |
+| Zulu (Blu Ray)                                               | ~ € 10,00 | [Amazon](https://www.amazon.de/gp/product/B00PXJI1O0/)                            | 
+| MacBeth (Blu Ray)                                            | ~ € 10,00 | [Amazon](https://www.amazon.de/gp/product/B019K0O56K/)                            | 
+| Admiral Canaris - Ein Leben für Deutschland                  | ~ € 13,00 | [Amazon](https://www.amazon.de/dp/B07BZ5F6YC/)                                    |
+| 08/15 - Die komplette Filmtrilogie                           | ~ € 16,00 | [Amazon](https://www.amazon.de/dp/B01M2Z2PUC/)                                    |
+| Steiner - Das eiserne Kreuz Teil 1+2 (HD-Doppelbox) - BluRay | ~ € 20,00 | [Amazon](https://www.amazon.de/dp/B01MZGXXJX/)                                    |
+| Das Spinnennetz - BluRay                                     | ~ € 13,00 | [Amazon](https://www.amazon.de/dp/B00IK6XLNE/)                                    |
+| Strafbataillon 999 - BluRay                                  | ~ € 18,00 | [Amazon](https://www.amazon.de/dp/B08SGDZFK6/)                                    |
+| Division Brandenburg - BluRay                                | ~ € 20,00 | [Amazon](https://www.amazon.de/dp/B08SGLZ89S/)                                    |
+| Kriegsgesetz - Gesetz ohne Gnade                             | ~ € 14,00 | [Amazon](https://www.amazon.de/dp/B00G9JOWNW/)                                    |
+| Peer Gynt                                                    | ~ € 20,00 | [JPC](https://www.jpc.de/jpcng/movie/detail/-/art/Peer-Gynt/hnum/6123270)         |
+| Nacht fiel über Gotenhafen (Neuauflage)                      | ~ € 15,00 | [Amazon](https://www.amazon.de/dp/B0DLMJMPVX/)      | 
 
 ## Haushaltswaren und Hygieneartikel
 | Artikel                                 |     Preis | Kaufvorschlag                                                                           |
