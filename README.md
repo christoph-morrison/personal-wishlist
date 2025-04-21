@@ -47,7 +47,7 @@ Meine Leseliste ist bis zum Lebensende gefüllt. Vielen Dank für die vielen Ges
 | Jouloscope                                                                      | ~ € 1000,00 | [Jouloscope](https://www.joulescope.com/)                                                                                                                         |
 | Nedo Messfix Compact 3m - F380211                                               | ~ € 185,00  | [Preisvergleich](https://www.idealo.de/preisvergleich/OffersOfProduct/200892039_-f-380-211-nedo.html)                                                                                                                     |
 | Proxxon Blockbandschleifer BBS/S                                                | ~ € 130,00  | [Preisvergleich](https://www.idealo.de/preisvergleich/OffersOfProduct/1295548_-bbs-s-proxxon.html)                                                                                                                     |
-
+| Proxxon Tischbohrmaschine TBH                                                   | ~ € 350,00  | [Preisvergleich](https://www.idealo.de/preisvergleich/OffersOfProduct/450215_-tbh-28124-proxxon.html)                                                                                                                     |
 
 Siehe auch meine [Wunschliste bei Amazon](https://www.amazon.de/hz/wishlist/ls/IOE8AWT2OXWS).
 
